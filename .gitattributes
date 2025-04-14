@@ -1,0 +1,19 @@
+# Normalize all text files
+* text=auto
+
+# Python and config files
+*.py             text eol=lf
+*.pydevproject   text eol=lf
+*.project        text eol=lf
+*.prefs          text eol=lf
+*.txt            text eol=lf
+*.md             text eol=lf
+*.html           text eol=lf
+*.xlf            text eol=lf
+*.xsd            text eol=lf
+*.gitignore      text eol=lf
+
+# Binary files (protect from EOL changes)
+*.zip            binary
+*.pack           binary
+*.idx            binary
