@@ -1,0 +1,193 @@
+"""
+================== XLIFF TRANSLATION PIPELINE (SAFE VERSION) ==================
+
+This script represents the full, correct behavior for translating XLIFF 2.0 files
+with formatting, tag structure, and placeholder preservation.
+
+Use this file to teach a future ChatGPT or teammate how to do this right.
+
+-------------------------------------------------------------------------------
+SUPPORTED FORMATS:
+- KLMS XLIFF files: <source> blocks contain formatted text using <pc> / <ph>
+- Storyline XLIFF files: deeper nesting, but same principles
+
+-------------------------------------------------------------------------------
+HOW TO TRANSLATE:
+- Extract the full <source> block as a single translation unit.
+- Tags (like <pc>, <ph>) must be preserved with:
+    - Tag names
+    - Attributes
+    - Indentation
+    - Whitespace
+    - Line breaks
+- Translate ONLY the human-readable text, not tags or attributes.
+- Java-style placeholders ({0}, {1}) must be protected/replaced before translation.
+- After translation, placeholders must be restored.
+- The structure of the <target> must exactly match the structure of the <source>.
+
+-------------------------------------------------------------------------------
+PRE-VALIDATION CHECK (ALWAYS RUN BEFORE FULL VALIDATION):
+Compare <source> and <target> line-by-line:
+- Line count must match
+- Leading whitespace must match
+- First tag on each line must match (e.g., <pc>, <ph>, </pc>, etc.)
+
+-------------------------------------------------------------------------------
+TRIAL TRANSLATION SET:
+Start with zh only using these units:
+- home.welcome
+- login.welcome
+- help.content
+- calendar.january to calendar.december
+- calendar.jan to calendar.dec
+- calendar.sunday to calendar.saturday
+- calendar.sun.abbreviated3 to calendar.sat.abbreviated3
+- calendar.su.abbreviated2 to calendar.sa.abbreviated2
+- Units with Java placeholders like {0}, {1}, {2}
+
+Supported Languages:
+- zh: Simplified Chinese
+- am: Amharic
+- hi: Hindi
+
+"""
+
+# === Java Placeholder Protection ===
+
+JAVA_PLACEHOLDER_MAP = {
+    "{0}": "0000",
+    "{1}": "1111",
+    "{2}": "2222",
+    "{3}": "3333",
+    "{4}": "4444",
+    "{5}": "5555",
+    "{6}": "6666",
+    "{7}": "7777",
+    "{8}": "8888",
+    "{9}": "9999",
+}
+
+def protect_java_placeholders(text):
+    for k, v in JAVA_PLACEHOLDER_MAP.items():
+        text = text.replace(k, v)
+    return text
+
+def restore_java_placeholders(text):
+    for k, v in JAVA_PLACEHOLDER_MAP.items():
+        text = text.replace(v, k)
+    return text
+
+# === Calendar Term Lookup ===
+
+CALENDAR_LOOKUPS = {
+    "zh": {
+        "months": ["一月", "二月", "三月", "四月", "五月", "六月",
+                   "七月", "八月", "九月", "十月", "十一月", "十二月"],
+        "month_abbr": ["1月", "2月", "3月", "4月", "5月", "6月",
+                       "7月", "8月", "9月", "10月", "11月", "12月"],
+        "days": ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
+        "days_abbr3": ["日", "一", "二", "三", "四", "五", "六"],
+        "days_abbr2": ["日", "一", "二", "三", "四", "五", "六"]
+    },
+    # Extend for 'am', 'hi' as needed
+}
+
+def get_calendar_lookup(lang_code):
+    return CALENDAR_LOOKUPS.get(lang_code, {})
+
+def translate_calendar_unit(unit_id, lang_code):
+    lookup = get_calendar_lookup(lang_code)
+    if unit_id.startswith("calendar."):
+        key = unit_id[9:]
+        if key in ["january", "february", "march", "april", "may", "june",
+                   "july", "august", "september", "october", "november", "december"]:
+            index = ["january", "february", "march", "april", "may", "june",
+                     "july", "august", "september", "october", "november", "december"].index(key)
+            return lookup.get("months", [])[index]
+        if key in ["jan", "feb", "mar", "apr", "may", "jun",
+                   "jul", "aug", "sep", "oct", "nov", "dec"]:
+            index = ["jan", "feb", "mar", "apr", "may", "jun",
+                     "jul", "aug", "sep", "oct", "nov", "dec"].index(key)
+            return lookup.get("month_abbr", [])[index]
+        if key in ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"]:
+            index = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"].index(key)
+            return lookup.get("days", [])[index]
+        if key.endswith(".abbreviated3"):
+            index = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"].index(key[:3])
+            return lookup.get("days_abbr3", [])[index]
+        if key.endswith(".abbreviated2"):
+            index = ["su", "mo", "tu", "we", "th", "fr", "sa"].index(key[:2])
+            return lookup.get("days_abbr2", [])[index]
+    return None
+
+# === Precheck Line Structure Match ===
+
+import re
+
+def check_line_structure_match(path1, path2):
+    def analyze(file_path):
+        structure = []
+        with open(file_path, "r", encoding="utf-8-sig") as f:
+            for line in f:
+                leading_ws = len(line) - len(line.lstrip())
+                tag_match = re.match(r'\s*<(/?\w+)', line)
+                tag = tag_match.group(1) if tag_match else None
+                structure.append((leading_ws, tag))
+        return structure
+
+    structure1 = analyze(path1)
+    structure2 = analyze(path2)
+
+    discrepancies = []
+    for i, (s1, s2) in enumerate(zip(structure1, structure2), start=1):
+        if s1 != s2:
+            discrepancies.append((i, s1, s2))
+    return discrepancies
+
+
+# === Utility: Extract a single <file> and <unit> from a full XLIFF file ===
+
+def extract_single_unit_xliff(full_xliff_path, target_unit_id, output_path, encoding="utf-8-sig"):
+    with open(full_xliff_path, "r", encoding=encoding) as f:
+        lines = f.readlines()
+
+    inside_file = False
+    inside_unit = False
+    capture_unit = False
+    file_buffer = []
+    unit_buffer = []
+    found_unit = False
+
+    for line in lines:
+        if "<file " in line and not inside_file:
+            current_file = [line]
+            inside_file = True
+            continue
+        elif inside_file and "</file>" in line:
+            current_file.append(line)
+            if found_unit:
+                file_buffer = current_file[:1] + unit_buffer + current_file[-1:]
+                break
+            inside_file = False
+            unit_buffer = []
+            found_unit = False
+        elif inside_file:
+            current_file.append(line)
+            if "<unit " in line and f'id="{target_unit_id}"' in line:
+                capture_unit = True
+                found_unit = True
+            if capture_unit:
+                unit_buffer.append(line)
+            if "</unit>" in line and capture_unit:
+                capture_unit = False
+
+    output = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="en">\n'
+        + ''.join(file_buffer) +
+        '</xliff>\n'
+    )
+
+    with open(output_path, "wb") as f:
+        f.write(b'\xef\xbb\xbf')
+        f.write(output.encode("utf-8"))

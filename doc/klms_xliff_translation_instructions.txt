@@ -1,0 +1,9 @@
+### Instructions and Details for Manual XLIFF Handling
+1. **Extract content** from `<pc>` and `<ph>` tags using the `dataRefStart` and `dataRefEnd` attributes.
+2. **Replace placeholders** in the `<source>` with the actual content from `originalData`.
+3. **Translate the entire `<source>` content** along with tags and formatting.
+4. **Rebuild the `<target>` element** preserving the **exact formatting, tags, and newlines**.
+5. **Write the translated content** back to the `<target>` and update the `state` attribute.
+
+### Python Code for Manual XLIFF Translation Handling
+The code provided reads the original English XLIFF file, handles the translation by processing `pc` and `ph` tags using `originalData` references, and writes the translated file back with the exact formatting preserved.

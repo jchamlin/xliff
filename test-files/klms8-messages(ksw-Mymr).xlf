@@ -1,0 +1,1737 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en" trgLang="ksw-Mymr">
+    <file canResegment="no" id="calendar.js">
+        <unit canResegment="no" id="calendar.jan.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Jan</source>
+                <target xml:space="preserve">လါယနူၤအါရံၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.feb.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Feb</source>
+                <target xml:space="preserve">လါဖ့ၣ်ဘြူၤအါရံၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.mar.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Mar</source>
+                <target xml:space="preserve">လါမၢ်ရှး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.apr.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Apr</source>
+                <target xml:space="preserve">လါအ့ဖြ့ၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.may.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">May</source>
+                <target xml:space="preserve">လါမ့ၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.jun.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Jun</source>
+                <target xml:space="preserve">လါယူၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.jul.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Jul</source>
+                <target xml:space="preserve">လါယူၤလံ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.aug.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Aug</source>
+                <target xml:space="preserve">လါအီကူး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sep.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sep</source>
+                <target xml:space="preserve">လါစဲးပတ့ဘၢၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.oct.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Oct</source>
+                <target xml:space="preserve">လါအီးကထိဘၢၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.nov.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Nov</source>
+                <target xml:space="preserve">လါနိၣ်ဝ့ဘၢၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.dec.abbreviated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Dec</source>
+                <target xml:space="preserve">လါဒံၣ်စဲဘၢၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.january">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">January</source>
+                <target xml:space="preserve">လါယနူၤအါရံၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.february">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">February</source>
+                <target xml:space="preserve">လါဖ့ဘြူၤအါရံၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.march">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">March</source>
+                <target xml:space="preserve">လါမၢ်ရှး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.april">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">April</source>
+                <target xml:space="preserve">လါအ့ဖြ့ၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.may">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">May</source>
+                <target xml:space="preserve">လါမ့ၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.june">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">June</source>
+                <target xml:space="preserve">လါယူၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.july">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">July</source>
+                <target xml:space="preserve">လါယူၤလံ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.august">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">August</source>
+                <target xml:space="preserve">လါအီကူး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.september">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">September</source>
+                <target xml:space="preserve">လါစဲးပတ့ဘၢၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.october">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">October</source>
+                <target xml:space="preserve">လါအီးကထိဘၢၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.november">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">November</source>
+                <target xml:space="preserve">လါနိၣ်ဝ့ဘၢၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.december">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">December</source>
+                <target xml:space="preserve">လါဒံၣ်စဲဘၢၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.su.abbreviated2">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Su</source>
+                <target xml:space="preserve">မုၢ်ဒဲး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.mo.abbreviated2">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Mo</source>
+                <target xml:space="preserve">မုၢ်ဆၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.tu.abbreviated2">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Tu</source>
+                <target xml:space="preserve">မုၢ်ယူာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.we.abbreviated2">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">We</source>
+                <target xml:space="preserve">မုၢ်ပျဲၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.th.abbreviated2">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Th</source>
+                <target xml:space="preserve">မုၢ်လ့ၤဧိၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.fr.abbreviated2">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Fr</source>
+                <target xml:space="preserve">မုၢ်ဖီဖး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sa.abbreviated2">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sa</source>
+                <target xml:space="preserve">မုၢ်ဘူၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sun.abbreviated3">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sun</source>
+                <target xml:space="preserve">မုၢ်ဒဲး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.mon.abbreviated3">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Mon</source>
+                <target xml:space="preserve">မုၢ်ဆၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.tue.abbreviated3">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Tue</source>
+                <target xml:space="preserve">မုၢ်ယူာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.wed.abbreviated3">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Wed</source>
+                <target xml:space="preserve">မုၢ်ပျဲၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.thu.abbreviated3">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Thu</source>
+                <target xml:space="preserve">မုၢ်လ့ၤဧိၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.fri.abbreviated3">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Fri</source>
+                <target xml:space="preserve">မုၢ်ဖီဖး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sat.abbreviated3">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sat</source>
+                <target xml:space="preserve">မုၢ်ဘူၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sunday">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sunday</source>
+                <target xml:space="preserve">မုၢ်ဒဲး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.monday">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Monday</source>
+                <target xml:space="preserve">မုၢ်ဆၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.tuesday">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Tuesday</source>
+                <target xml:space="preserve">မုၢ်ယူာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.wednesday">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Wednesday</source>
+                <target xml:space="preserve">မုၢ်ပျဲၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.thursday">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Thursday</source>
+                <target xml:space="preserve">မုၢ်လ့ၤဧိၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.friday">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Friday</source>
+                <target xml:space="preserve">မုၢ်ဖီဖး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.saturday">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Saturday</source>
+                <target xml:space="preserve">မုၢ်ဘူၣ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="user_scripts.html">
+        <unit canResegment="no" id="user_scripts.profile_delete">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Are you sure you want to delete your profile?</source>
+                <target xml:space="preserve">နသးအိၣ် တြူာ်သံကွံာ် နဂ့ၢ်နကျိၤပရိၣ်ဖဲ (လ) န့ၣ် လီၤတံၢ်လံဧါ?</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="framework.core.util.smartform.SmartFormUtil">
+        <unit canResegment="no" id="SmartFormUtil.no_match">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">There is no match for the value entered</source>
+                <target xml:space="preserve">တၢ်လၢအဘၣ်လိာ်ဒီး တၢ်ဂ့ၢ်လၢနထၢနုာ်န့ၣ် တအိၣ်ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.too_many_matches">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">There are too many matches for the value entered</source>
+                <target xml:space="preserve">တၢ်လၢအဘၣ်လိာ်ဒီး တၢ်ဂ့ၢ်လၢနထၢနုာ်န့ၣ် တအိၣ်ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.invalid_phone_number">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is an invalid phone number</source>
+                <target xml:space="preserve">တၢ်အံၤမ့ၢ်လီတဲစိနီၣ်ဂံၢ်လၢ ပှၤကိးအီၤတန့ၢ်ဘၣ်န့ၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.invalid_dollar_amount">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is an invalid dollar amount</source>
+                <target xml:space="preserve">တၢ်အံၤမ့ၢ် စ့ဒီလၣ် အပှဲၤအံၤပှဲၤနုၤလၢ တၢ်တူၢ်လိာ်တသ့ဘၣ်န့ၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.required_field">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is a required field</source>
+                <target xml:space="preserve">တၢ်အံၤမ့ၢ် တၢ်လီၢ်လၢနကဘၣ်မၤပှဲၤန့ၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.at_least_one_required_field_not_specified">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">At least one required field was not specified</source>
+                <target xml:space="preserve">အစှၤကတၢၢ် တၢ်လီၢ်တလီၢ်လၢ ကဘၣ်မၤပှဲၤအီၤန့ၣ် အိၣ်လီၢ်ဟိအသးလီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.too_long">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is too long (maximum length {0} characters)</source>
+                <target xml:space="preserve">တၢ်အံၤထီကဲၣ်ဆိးလီၤ (လံာ်မဲာ်ဖျၢၣ်အအါကတၢၢ် {0} ဖျၢၣ်)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.invalid_number">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is an invalid number</source>
+                <target xml:space="preserve">တၢ်အံၤမ့ၢ် နီၣ်ဂံၢ်လၢ တၢ်စူးကါအီၤတသ့ဘၣ် တဖျၢၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.invalid_date">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is an invalid date</source>
+                <target xml:space="preserve">တၢ်အံၤမ့ၢ် နံၤသီလၢ တၢ်စူးကါအီၤ တသ့ဘၣ်လီၤ</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="framework.database.util.FieldValidator">
+        <unit canResegment="no" id="FieldValidator.email_address.not_specified">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">E-mail address not specified</source>
+                <target xml:space="preserve">တထၢနုာ်ဃာ်အံမ့ (လ) ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.leading_whitespace">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">E-mail address contains leading whitespace</source>
+                <target xml:space="preserve">အံမ့ (လ) လံာ်ဖျၢၣ်န့ၣ် အိၣ်ဒီးတၢ်လီၤဟိလၢအမဲာ်ညါလီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.trailing_whitespace">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">E-mail address contains trailing whitespace</source>
+                <target xml:space="preserve">အံမ့ (လ) လံာ်ဖျၢၣ်န့ၣ် အိၣ်ဒီးတၢ်လီၤဟိလၢအလီၢ်ခံလီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.embedded_whitespace">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">E-mail address contains embedded whitespace</source>
+                <target xml:space="preserve">အံမ့ (လ) လံာ်ဖျၢၣ်အပူၤ တၢ်လီၤဟိတဖၣ်အိၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.no_at_symbol">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">E-mail address does not contain an @ symbol</source>
+                <target xml:space="preserve">အံမ့ (လ) လံာ်ဖျၢၣ်အပူၤ @ အပနီၣ်တပၣ်ဝဲဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.too_short">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">E-mail address is too short (minimum length {0} characters)</source>
+                <target xml:space="preserve">အံမ့ (လ) အံၤ ဖုၣ်ဝဲကဲၣ်ဆိး (လံာ်မဲာ်ဖျၢၣ်အစှၤကတၢၢ် {0} ဖျၢၣ်)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_no_period">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Domain part of e-mail address does not contain a period</source>
+                <target xml:space="preserve">လၢအံမ့ (လ) တိၢ်မ့ (န) အပူၤန့ၣ် ဖီးပတုာ်တပၣ်ဝဲဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.user_invalid_characters">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">User part of e-mail address contains invalid characters</source>
+                <target xml:space="preserve">ပှၤစူးကါတၢ်ဖိ အအံမ့ (လ) အပူၤ ပၣ်ဃုာ်ဒီး လံာ်မဲာ်ဖျၢၣ်လၢ တၢ်စူးကါအီၤတသ့ဘၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.user_ends_with_period">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">User part of e-mail address ends with a period</source>
+                <target xml:space="preserve">ပှၤစူးကါတၢ်ဖိ အအံမ့ (လ) ကတၢၢ်ဝဲလၢ ဖီးပတုာ်တဖျၢၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_invalid_characters">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Domain part of e-mail address contains invalid characters</source>
+                <target xml:space="preserve">အံမ့ (လ) တိၢ်မ့ (န) န့ၣ် ပၣ်ဃုာ်ဒီး လံာ်မဲာ်ဖျၢၣ်လၢ တၢ်စူးကါအီၤတသ့ဘၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_starts_with_period">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Domain part of e-mail address starts with a period</source>
+                <target xml:space="preserve">အံမ့ (လ) တိၢ်မ့ (န) န့ၣ် စးထီၣ်လၢ ဖီးပတုာ်တဖျၢၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_ends_with_period">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Domain part of e-mail address ends with a period</source>
+                <target xml:space="preserve">အံမ့ (လ) တိၢ်မ့ (န) ကတၢၢ်ဒီး ဖီးပတုာ်တဖျၢၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_too_long">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Domain part of e-mail address is longer than 67 characters</source>
+                <target xml:space="preserve">အံမ့ (လ) တိၢ်မ့ (န) န့ၣ် အါန့ၢ်လံာ်မဲာ်ဖျၢၣ် 67 ဖျၢၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_two_periods_in_a_row">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Domain part of e-mail address contains two periods in a row</source>
+                <target xml:space="preserve">အံမ့ (လ) တိၢ်မ့ (န) န့ၣ် ပၣ်ဃုာ်ဒီး ဖီးပတုာ်ခံဖျၢၣ်တဘျီဃီလီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_not_valid">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Domain “{0}” is not valid</source>
+                <target xml:space="preserve">တိၢ်မ့ (န) “{0}” န့ၣ်တၢ်စူးကါအီၤတသ့ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_invalid_top_level_domain">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Top-level domain (TLD) “{0}” is not valid</source>
+                <target xml:space="preserve">ပတီၢ်ထီကတၢၢ်တိၢ်မ့ (TLD) န့ၣ် “{0}” တၢ်တူၢ်လိာ်အီၤတသ့ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_invalid_top_level_domain_with_suggestion">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Top-level domain (TLD) “{0}” is not valid (did you mean “{1}”?)</source>
+                <target xml:space="preserve">ပတီၢ်ထီကတၢၢ်တိၢ်မ့ (TLD) န့ၣ် “{0}” တၢ်တူၢ်လိာ်အီၤတသ့ဘၣ် (မ့ၢ်နအဲၣ်ဒိးကွဲး “{1}” ဧါ)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.invalid">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is an invalid e-mail address</source>
+                <target xml:space="preserve">အံမ့ (လ) အံၤ တၢ်စူးကါအီၤတသ့ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.multiple_recipients">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">E-mail address cannot contain multiple recipients</source>
+                <target xml:space="preserve">အံမ့ (လ) အပူၤ ပှၤဒိးန့ၢ်တၢ်အါဂၤ ပၣ်ဃုာ်တသ့ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.simple_address">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">E-mail address must be a simple email address</source>
+                <target xml:space="preserve">အံမ့ (လ) န့ၣ် ကဘၣ်မ့ၢ်ဒၣ် အံမ့ (လ) ယိယိဖိတခါလီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.password.too_short">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This password is too short (minimum length {0} characters)</source>
+                <target xml:space="preserve">လံာ်ဖျၢၣ်ခူသူအံၤ ဖုၣ်ဝဲကဲၣ်ဆိးလီၤ (အစှၤကတၢၢ် လံာ်မဲာ်ဖျၢၣ် {0} ဖျၢၣ်)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.password.too_simple">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This password is too simple</source>
+                <target xml:space="preserve">လံာ်ဖျၢၣ်ခူသူၣ်အံၤ ညီဝဲကဲၣ်ဆိးလီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.password.invalid">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is an invalid password</source>
+                <target xml:space="preserve">လံာ်ဖျၢၣ်ခူသူၣ်အံၤ တၢ်စူးကါအီၤ တသ့ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.URL.invalid">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is an invalid URL</source>
+                <target xml:space="preserve">URLအံၤ တၢ်စူးကါအီၤတသ့ဘၣ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="SmartColumnComponent.java">
+        <unit canResegment="no" id="SmartColumnComponent.no_sort">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Return to default sort order</source>
+                <target xml:space="preserve">က့ၤကဒါက့ၤဆူ တၢ်ဃုကွၢ် တၢ်ရဲၣ်တၢ်ကျဲၤအိၣ်ပာ်စၢၤ အတၢ်ရဲၣ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartColumnComponent.sort_by_asc">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sort by {0} ascending</source>
+                <target xml:space="preserve">ရဲၣ်လီၤခီဖျိ {0} ဆူဖီခိၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartColumnComponent.sort_by_desc">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sort by {0} descending</source>
+                <target xml:space="preserve">ရဲၣ်လီၤခီဖျိ {0} ဆူဖီလာ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="SmartFormComponent.java">
+        <unit canResegment="no" id="SmartFormComponent.submit">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Submit</source>
+                <target xml:space="preserve">ဆှၢထီၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.save">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Save</source>
+                <target xml:space="preserve">ဟံးဃာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.copy">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Copy</source>
+                <target xml:space="preserve">ကွဲးဒိ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.new">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">New</source>
+                <target xml:space="preserve">အသီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.delete">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Delete</source>
+                <target xml:space="preserve">တြူာ်သံကွံာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.reset">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Reset</source>
+                <target xml:space="preserve">မၤသီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.cancel">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Cancel</source>
+                <target xml:space="preserve">ပာ်ပတုာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.go">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Go</source>
+                <target xml:space="preserve">လဲၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.ok">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">OK</source>
+                <target xml:space="preserve">ဂ့ၤလံ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.previous">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Previous</source>
+                <target xml:space="preserve">ဆူလီၢ်ခံ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.next">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Next</source>
+                <target xml:space="preserve">ဆူညါ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.close">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Close</source>
+                <target xml:space="preserve">ကးတံၢ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="ProfileHandler.java">
+        <unit canResegment="no" id="ProfileHandler.username_already_registered">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">That username is already registered.</source>
+                <target xml:space="preserve">မံၤစူးကါအံၤ တၢ်ဆဲးလီၤမံၤပာ်စၢၤ ဝံၤလံ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="ProfileHandler.email_address_already_registered">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">That e-mail address is already registered.</source>
+                <target xml:space="preserve">အံမ့ (လ) အံၤ တၢ်ဆဲးလီၤမံၤပာ်စၢၤဝံၤလံ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="ProfileHandler.missing_username_or_email_address">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Missing username or e-mail address.</source>
+                <target xml:space="preserve">မံၤစူးကါ မ့တမ့ၢ် အံမ့ (လ) အိၣ်လီၤဟိဝဲလီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="ProfileHandler.required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Required</source>
+                <target xml:space="preserve">လိၣ်ဝဲလီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="ProfileHandler.passwords_do_not_match">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Your passwords do not match.</source>
+                <target xml:space="preserve">နလံာ်ဖျၢၣ်ခူသူၣ်န့ၣ် တဘၣ်လိာ်ဘၣ်.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="ResetPassword.java">
+        <unit canResegment="no" id="ResetPassword.password_has_been_changed">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Your password has been changed.</source>
+                <target xml:space="preserve">နလံာ်ဖျၢၣ်ခူသူၣ်န့ၣ် ဘၣ်တၢ်ဆီတလဲအီၤလံ.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="password_strength.js">
+        <unit canResegment="no" id="password_strength.too_short">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Too short</source>
+                <target xml:space="preserve">ဖုၣ်ကဲၣ်ဆိး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.weak">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Weak</source>
+                <target xml:space="preserve">စၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.fair">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Fair</source>
+                <target xml:space="preserve">ဖဲအဘၣ်ဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.good">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Good</source>
+                <target xml:space="preserve">ဂ့ၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.strong">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Strong</source>
+                <target xml:space="preserve">ဆူၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.not_rated">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Not rated</source>
+                <target xml:space="preserve">တဘၣ်တၢ်ပာ်ပနီၣ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="login.html">
+        <unit canResegment="no" id="login.title">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sign In</source>
+                <target xml:space="preserve">ဆဲးလီၤမံၤနုာ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.welcome">
+            <originalData>
+                <data id="h1_0_start">&lt;h1&gt;</data>
+                <data id="h1_0_end">&lt;/h1&gt;</data>
+                <data id="p_1_start">&lt;p&gt;</data>
+                <data id="p_1_end">&lt;/p&gt;</data>
+                <data id="p_2_start">&lt;p&gt;</data>
+                <data id="p_2_end">&lt;/p&gt;</data>
+                <data id="p_3_start">&lt;p&gt;</data>
+                <data id="p_3_end">&lt;/p&gt;</data>
+                <data id="p_4_start">&lt;p&gt;</data>
+                <data id="p_4_end">&lt;/p&gt;</data>
+                <data id="p_5_start">&lt;p&gt;</data>
+                <data id="p_5_end">&lt;/p&gt;</data>
+                <data id="a_6_start">&lt;a href="mailto:{0}"&gt;</data>
+                <data id="a_6_end">&lt;/a&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve"><pc dataRefStart="h1_0_start" dataRefEnd="h1_0_end" id="h1_0" type="fmt">Welcome to MCB’s Online Training for Peer Specialists</pc>
+<pc dataRefStart="p_1_start" dataRefEnd="p_1_end" id="p_1" type="fmt">These free online training programs explore a variety of topics to help you succeed as a peer and work effectively with those beginning or continuing their recovery journey.</pc>
+<pc dataRefStart="p_2_start" dataRefEnd="p_2_end" id="p_2" type="fmt">Our training programs provide you with the knowledge and skills to better support the persons you serve on their recovery journey. The programs educate and challenge your understanding about opioids and substance use as well as build mindfulness of cultural differences and your ability to navigate those differences.</pc>
+<pc dataRefStart="p_3_start" dataRefEnd="p_3_end" id="p_3" type="fmt">Funding for this training is made possible through a grant from the Minnesota Department of Human Services Behavioral Health Division.</pc>
+<pc dataRefStart="p_4_start" dataRefEnd="p_4_end" id="p_4" type="fmt">Self-register to begin or, if you are a returning learner, sign in to continue your training.</pc>
+<pc dataRefStart="p_5_start" dataRefEnd="p_5_end" id="p_5" type="fmt">For any technical or connection issues, please email <pc dataRefStart="a_6_start" dataRefEnd="a_6_end" id="a_6" type="link">{0}</pc>.</pc></source>
+                <target xml:space="preserve"><pc dataRefStart="h1_0_start" dataRefEnd="h1_0_end" id="h1_0" type="fmt">သးခုတူၢ်လိာ်မုာ်ဘၣ်လၢ MCB အတၢ်သိၣ်လိနဲၣ်လိလၢ အ့ထၢၣ်နဲးအဖီခိၣ် လၢပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲ ပှၤကူၣ်သ့စဲၣ်နီၤတဖၣ်အဂီၢ်န့ၣ်လီၤ</pc>
+<pc dataRefStart="p_1_start" dataRefEnd="p_1_end" id="p_1" type="fmt">တၢ်သိၣ်လိနဲၣ်လိလၢ အ့ထၢၣ်နဲးအဖီခိၣ် လၢအဘူးအလဲကလီ တၢ်ရဲၣ်တၢ်ကျဲၤတဖၣ်အံၤ မၤလိသ့ၣ်ညါ တၢ်ဂ့ၢ်အခိၣ်တီအါမး လၢကမၤစၢၤနၤ လၢနကမၤန့ၢ်မၤနၢၤတၢ်ဒ် ပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲတၢ်အသိး ဒီးနကမၤဘၣ်တၢ် တုၤလီၤတီၤလီၤ ဃုာ်ဒီးပှၤတဖၣ်လၢ အစးထီၣ်မၤဝဲ မ့တမ့ၢ် မၤဝဲအတၢ်အိၣ်ဆူၣ်အိၣ်ချ့ဂ့ၤထီၣ်က့ၤ အတၢ်လဲၤ ဆူညါကွ့ၢ်ကွ့ၢ်အဂီၢ်န့ၣ်လီၤ.</pc>
+<pc dataRefStart="p_2_start" dataRefEnd="p_2_end" id="p_2" type="fmt">ပတၢ်သိၣ်လိနဲၣ်လိ အတၢ်ရဲၣ်တၢ်ကျဲၤအံၤ ဟ့ၣ်မၤစၢၤနၤ တၢ်သ့ၣ်ညါနၢ်ပၢၢ်တဖၣ်ဒီး တၢ်သ့တၢ်ဘၣ်တဖၣ် ဒ်သိးနကဆီၣ်ထွဲမၤစၢၤဂ့ၤထီၣ်ဘၣ် ပှၤလၢနမၤစၢၤအီၤ လၢအဝဲသ့ၣ် အတၢ်အိၣ်ဆူၣ်အိၣ်ချ့ဂ့ၤထီၣ် အတၢ်လဲၤကျဲအပူၤန့ၣ်လီၤ. တၢ်ရဲၣ်တၢ်ကျဲၤအံၤ သိၣ်လိနဲၣ်လိဒီး တၤဝဲဒၣ် နတၢ်သ့ၣ်ညါနၢ်ပၢၢ် ဘၣ်ဃးဒီး တၢ်စူးကါ ကသံၣ်မၤကိညၢ်တၢ်ဆါအ့ၣ်စိၢ်အ့ၣ်ထုးဒီး ကသံၣ်မူၤဘှီး တကးဒံးဘၣ် သူၣ်ထီၣ် တၢ်သ့ၣ်ညါနၢ်ပၢၢ် တၢ်ဆဲးတၢ်လၤ အတၢ်လီၤဆီလိာ်သးအဂ့ၢ် လီၤတံၢ်လီၤဆဲးဒီး နတၢ်သ့တၢ်ဘၣ်လၢ ကနဲၣ်လီၤ တၢ်လီၤဆီလိာ်သးတဖၣ်အံၤန့ၣ်လီၤ.</pc>
+<pc dataRefStart="p_3_start" dataRefEnd="p_3_end" id="p_3" type="fmt">Minnesota ဝဲၤကျိၤလၢ တၢ်တိစၢၤမၤစၢၤ ပှၤကူပှၤကညီ အတၢ်ဒီသူၣ်ပာ်သး တၢ်အိၣ်ဆူၣ်အိၣ်ချ့ ဝဲၤဒ့ ဟ့ၣ်မၤစၢၤ ကျိၣ်စ့လၢ တၢ်သိၣ်လိနဲၣ်လိအံၤ အဂီၢ်န့ၣ်လီၤ.</pc>
+<pc dataRefStart="p_4_start" dataRefEnd="p_4_end" id="p_4" type="fmt">လၢနစးထီၣ်အဂီၢ် ဆဲးလီၤနမံၤ မ့တမ့ၢ်, နမ့မ့ၢ်ပှၤတဂၤလၢ အဟဲက့ၤမၤလိက့ၤကဒီးတၢ်အဃိ, ဆဲးလီၤမံၤနုာ်လီၤလၢ နကမၤလိတၢ်ဆူညါအဂီၢ်တက့ၢ်.</pc>
+<pc dataRefStart="p_5_start" dataRefEnd="p_5_end" id="p_5" type="fmt">စဲးဖီကဟၣ်ပီညါ မ့တမ့ၢ် အ့ထၢၣ်နဲးတၢ်ဘျးစဲ အတၢ်ဂ့ၢ်ကီမ့ၢ်အိၣ်အဃိ, ဝံသးစူၤဆှၢအံမ့ (လ) ဆူ <pc dataRefStart="a_6_start" dataRefEnd="a_6_end" id="a_6" type="link">{0}</pc>တက့ၢ်.</pc></target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.new_registration">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Welcome, and thank you for your purchase! To begin, please watch the video to your left, test your browser, and then sign in using your username and password.</source>
+                <target xml:space="preserve">သးခုတူၢ်လိာ်မုာ်နၤလီၤ, ဒီး တၢ်ဘျုးလၢ နပှ့ၤတၢ်အဃိလီၤ. လၢကစးထီၣ်အဂီၢ်, ကွၢ်ဘၣ် ဘံၣ်ဒံၣ်အိၣ်လၢ နစုစ့ၣ်တကပၤ, မၤကွၢ်နဘရီစၢၣ်, မ့ၢ်ဝံၤ စူးကါ နမံၤစူးကါဒီး နလံာ်ဖျၢၣ်ခူသူၣ် ဒီးဆဲးလီၤမံၤနုာ်လီၤဘၣ်တက့ၢ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.signin">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sign In</source>
+                <target xml:space="preserve">ဆဲးလီၤမံၤနုာ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.registered_learners_signin">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Registered learners sign in here.</source>
+                <target xml:space="preserve">ပှၤမၤလိတၢ်ဖိလၢ အဆဲးလီၤမံၤပာ်စၢၤ ဆဲးလီၤမံၤနုာ်လီၤ ဖဲအံၤတက့ၢ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.username">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Username</source>
+                <target xml:space="preserve">မံၤစူးကါ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.password">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Password</source>
+                <target xml:space="preserve">လံာ်ဖျၢၣ်ခူသူၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.register">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Register</source>
+                <target xml:space="preserve">ဆဲးလီၤမံၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.new_learners_register">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">New learners register here.</source>
+                <target xml:space="preserve">ပှၤမၤလိတၢ်ဖိအသီ ဆဲးလီၤမံၤ ဖဲအံၤတက့ၢ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.language">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Language</source>
+                <target xml:space="preserve">ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.first_name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">First Name</source>
+                <target xml:space="preserve">မံၤခီၣ်ထံး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.last_name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Last Name</source>
+                <target xml:space="preserve">မံၤကတၢၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.email_address">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Email Address</source>
+                <target xml:space="preserve">အံမ့ (လ)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.password_again">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Type Password Again</source>
+                <target xml:space="preserve">ထၢနုာ်လံာ်ဖျၢၣ်ခူသူၣ် ကဒီးတဘျီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.registration_code">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Group</source>
+                <target xml:space="preserve">ကရူၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.choose_a_group">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Choose a group</source>
+                <target xml:space="preserve">ဃုထၢ ကရူၢ်တခါ</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="header.html">
+        <unit canResegment="no" id="header.application_name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Minnesota Certification Board</source>
+                <target xml:space="preserve">Minnesota Certification Board</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="header.text">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Online Training for Behavioral Health Professionals</source>
+                <target xml:space="preserve">အ့ထၢၣ်နဲးပူၤ တၢ်သိၣ်လိနဲၣ်လိလၢ ပှၤအိၣ်ဒီးတၢ်သ့တၢ်ဘၣ်လီၤဆီလၢ တၢ်ဒီသူၣ်ပာ်သးဆူၣ်ချ့တဖၣ်အဂီၢ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="footer.html">
+        <unit canResegment="no" id="footer.application_footer">
+            <originalData>
+                <data id="a_0_start">&lt;a href="mailto:{1}" target="_blank"&gt;</data>
+                <data id="a_0_end">&lt;/a&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">&amp;copy; 2009-{0} Kinetic Learning, Inc. All Rights Reserved &amp;middot; <pc dataRefStart="a_0_start" dataRefEnd="a_0_end" id="a_0" type="link">Contact Support</pc> &amp;middot; {2}</source>
+                <target xml:space="preserve">&amp;copy; 2009-{0} Kinetic Learning, Inc. တၢ်သိၣ်တၢ်သီခဲလၢာ်ဘၣ်တၢ်ဟ့ၣ်အခွဲး&amp;middot; <pc dataRefStart="a_0_start" dataRefEnd="a_0_end" id="a_0" type="link">မၤစၢၤဆဲကျိး</pc> &amp;middot; {2}</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="learner_group.database">
+        <unit canResegment="no" id="learner_group.1CPRS.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Certified Peer Recovery Specialist</source>
+                <target xml:space="preserve">ပှၤကူၣ်သ့စဲၣ်နီၤအိၣ်ဒီးလံာ်အုၣ်သး လၢပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲ ပှၤအိၣ်မုာ်ထီၣ်က့ၤလၢတၢ်စဲကသံၣ်မူၤဘှိးတကပၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.2PRSS.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Peer Recovery Support Specialist</source>
+                <target xml:space="preserve">ပှၤကူၣ်သ့စဲၣ်နီၤလၢ ပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲ ပှၤအိၣ်မုာ်ထီၣ်က့ၤလၢတၢ်စဲကသံၣ်မူၤဘှိးတကပၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.3FS.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Family Specialist</source>
+                <target xml:space="preserve">ပှၤကူၣ်သ့စဲၣ်နီၤလၢ တၢ်ကူၣ်လိာ်ဆီၣ်ထွဲဟံၣ်ဃီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.9OP.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Other Professional</source>
+                <target xml:space="preserve">ပှၤသ့ပှၤဘၣ်လီၤဆီ အဂၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.1CPRS.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Certified Peer Recovery Specialist</source>
+                <target xml:space="preserve">ပှၤကူၣ်သ့စဲၣ်နီၤအိၣ်ဒီးလံာ်အုၣ်သး လၢပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲ ပှၤအိၣ်မုာ်ထီၣ်က့ၤလၢတၢ်စဲကသံၣ်မူၤဘှိးတကပၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.2PRSS.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Peer Recovery Support Specialist</source>
+                <target xml:space="preserve">ပှၤကူၣ်သ့စဲၣ်နီၤလၢ ပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲ ပှၤအိၣ်မုာ်ထီၣ်က့ၤလၢတၢ်စဲကသံၣ်မူၤဘှိးတကပၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.3FPS.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Family Specialist</source>
+                <target xml:space="preserve">ပှၤကူၣ်သ့စဲၣ်နီၤလၢ တၢ်ကူၣ်လိာ်ဆီၣ်ထွဲဟံၣ်ဃီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.9OP.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Other Professional</source>
+                <target xml:space="preserve">ပှၤသ့ပှၤဘၣ်လီၤဆီ အဂၤ</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="status.database">
+        <unit canResegment="no" id="status.browsed.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Browsed</source>
+                <target xml:space="preserve">ကွၢ်ဃုတ့ၢ်လၢအ့ထၢၣ်နဲးအပူၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.completed.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Completed</source>
+                <target xml:space="preserve">မၤဝံၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.failed.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Failed</source>
+                <target xml:space="preserve">တထီၣ်ဘး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.incomplete.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">In Progress</source>
+                <target xml:space="preserve">တၢ်မၤအီၤအဖၢမုၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.locked.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Locked</source>
+                <target xml:space="preserve">ဘၣ်တၢ်ကးတံၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.not_attempted.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">New</source>
+                <target xml:space="preserve">အသီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.passed.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Passed</source>
+                <target xml:space="preserve">ဖျိထီၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.browsed.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This has been completed: the learner is just browsing</source>
+                <target xml:space="preserve">တၢ်အံၤဘၣ်တၢ်မၤပှဲၤအီၤဝံၤလံ- ပှၤမၤလိတၢ်အံၤ မ့ၢ်ဒၣ် ဟးကွၢ်တပျံာ်တပျာ်တၢ်လီၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.completed.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This has been completed</source>
+                <target xml:space="preserve">တၢ်အံၤဘၣ်တၢ်မၤပှဲၤအီၤဝံၤလံ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.failed.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This was attempted and has been completed, but without a passing score</source>
+                <target xml:space="preserve">တၢ်အံၤမ့ၢ်ဒၣ်တၢ်မၤကွၢ်ဒီး ဘၣ်တၢ်မၤပှဲၤအီၤဝံၤလံ, သနာ်က့ တအိၣ်ဒီးတၢ်ဖျိထီၣ်အမးဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.incomplete.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is in progress and has not been completed</source>
+                <target xml:space="preserve">တၢ်အံၤဘၣ်တၢ်မၤအီၤအဖၢမုၢ် ဒီးတၢ်မၤပှဲၤအီၤတဝံၤဒံးဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.locked.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This has not been unlocked: please complete all prerequisites first</source>
+                <target xml:space="preserve">တၢ်အံၤ တဘၣ်တၢ်အိးထီၣ်အီၤဒံးဘၣ်- ဝံသးစူၤ မၤပှဲၤတၢ်လိၣ်ဆိတဖၣ် လၢညါတက့ၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.not_attempted.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This has not been launched</source>
+                <target xml:space="preserve">တၢ်အံၤတဘၣ်တၢ်ထုးထီၣ်အီၤဒံးဘၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.passed.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This has been completed with a passing score</source>
+                <target xml:space="preserve">တၢ်အံၤဘၣ်တၢ်မၤဝံၤအီၤ ဃုာ်ဒီး မးပတီၢ်လၢအဖျိထီၣ်တၢ်လီၤ</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="curriculum.database">
+        <unit canResegment="no" id="curriculum.OTPS.short_name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Opioid Training</source>
+                <target xml:space="preserve">တၢ်သိၣ်လိနဲၣ်လိ ဘၣ်ဃးဒီး ကသံၣ်မၤကိညၢ်တၢ်ဆါအ့ၣ်စိၢ်အ့ၣ်ထုး (အိဖံဝဲး) အဂ့ၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.OTPS.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Opioid Training for Peer Specialists</source>
+                <target xml:space="preserve">တၢ်သိၣ်လိနဲၣ်လိ ကသံၣ်အိဖံဝဲးအဂ့ၢ် လၢပှၤကူၣ်သ့စဲၣ်နီၤ လၢပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲတဖၣ်အဂီၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.OTPS.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The objective of the course is to provide peer specialists with information about the principals and characteristics of opioid use disorders and approaches to treatment and recovery (e.g., medication assistant treatment) so peers are informed and prepared to support the individuals they serve.</source>
+                <target xml:space="preserve">တၢ်တိာ်ပာ်တဖၣ်လၢ တၢ်မၤလိအံၤအဂီၢ်န့ၣ်မ့ၢ်ဒ်သိး ကမၤစၢၤ ပှၤကူၣ်သ့စဲၣ်နီၤပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲတဖၣ် လၢတၢ်ဂ့ၢ်တၢ်ကျိၤလၢအဘၣ်ဃးဒီး တၢ်စူးကါ ကသံၣ်အိဖံဝဲးတၢ်တဘၣ်လိာ်ဘၣ်စးတဖၣ် အတၢ်ဂ့ၢ်အကါဒိၣ်ဒီး အရူၢ်အသဲးတဖၣ် ဒီး တၢ်သုးဘူးဃီၤသးဆူ တၢ်ကူစါယါဘျါဒီး တၢ်အိၣ်ဆူၣ်အိၣ်ချ့ဂ့ၤထီၣ်က့ၤ (အဒိ, ကသံၣ်ကသီလၢ အမၤစၢၤ တၢ်ကူစါယါဘျါ) ဒ်သိး ပှၤတဖၣ်န့ၣ် ကဘၣ်တၢ်ဒုးသ့ၣ်ညါဒီး ကတဲာ်ကတီၤအီၤလၢ ကဆီၣ်ထွဲပှၤတဖၣ်လၢ အမၤစၢၤဝဲအဂီၢ်န့ၣ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.NEO.short_name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">New and Emerging Opioids</source>
+                <target xml:space="preserve">ကသံၣ်အိဖံဝဲးအသီဒီး အဟဲအိၣ်ဖျါထီၣ်တဖၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.NEO.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">New and Emerging Opioids</source>
+                <target xml:space="preserve">ကသံၣ်အိဖံဝဲးအသီဒီး အဟဲအိၣ်ဖျါထီၣ်တဖၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.NEO.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">A timely update to the opioid crisis, which has evolved from opioid over-prescription to one of growing illegal access everywhere.</source>
+                <target xml:space="preserve">တၢ်ဖၢနုာ်တၢ်ဂ့ၢ်ကျိၤချုးန့ၢ်တၢ်ဆၢကတီၢ် ဘၣ်ဃးဒီး အိဖံဝဲးတၢ်ဂ့ၢ်ကီ, ဒ်ဟဲအိၣ်ထီၣ်လၢ တၢ်ဟ့ၣ်အိဖံဝဲးကသံၣ်အါတလၢဆူ ပှၤတဂၤအအိၣ် ဒီးဒုးကဲထီၣ် တၢ်ဒိးန့ၢ်ကသံၣ်တဖိးသဲစး ဖဲတၢ်လီၢ်ကိးပူၤဒဲးလီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.ICAPS.short_name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Introduction to Culturally Affirming Peer Support</source>
+                <target xml:space="preserve">တၢ်ဒုးသ့ၣ်ညါထီၣ် ဘၣ်ဃးဒီးပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲလၢ အကြၢးဘၣ်ဒီးတၢ်ဆဲးတၢ်လၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.ICAPS.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Introduction to Culturally Affirming Peer Support</source>
+                <target xml:space="preserve">တၢ်ဒုးသ့ၣ်ညါထီၣ် ဘၣ်ဃးဒီးပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲလၢ အကြၢးဘၣ်ဒီးတၢ်ဆဲးတၢ်လၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.ICAPS.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The course provides peer specialists and others with a professional interest in substance use disorder recovery, insight into six of Minnesota’s diverse cultures, and learning experiences in cultural responsiveness. The course explores cultural differences and encourages peer specialists to be mindful of such differences and how they impact their relationship with the persons they serve. Participants work through real-world interactive exercises that help build skills for engaging and productive relationships with persons from diverse cultures.</source>
+                <target xml:space="preserve">တၢ်မၤလိအံၤအပူၤန့ၣ် ကဒုးသ့ၣ်ညါ ပှၤကူၣ်သ့စဲၣ်နီၤလၢပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲ ဃုာ်ဒီးပှၤအဂၤလၢအိၣ်ဒီးတၢ်သးစဲလၢ တၢ်သူကမၣ်ကသံၣ်သးအတၢ်ဆါမၤဘျါက့ၤအဂီၢ်, တၢ်ထံၣ်သ့ၣ်ညါဘၣ်ဃးဒီး Minnesota တၢ်ဆဲးတၢ်လၤ ဃုခါလၢအလီၤဆီတဖၣ်, ဒီး တၢ်မၤလိမၤဒီးဘၣ်ဃးဒီး တၢ်ဆဲးတၢ်လၤစံးဆၢက့ၤတၢ်လီၤ. တၢ်မၤလိအံၤအပူၤ သုကဃုသ့ၣ်ညါဘၣ် တၢ်ဆဲးတၢ်လၢအလီၤဆီတဖၣ်ဒီး ဟ့ၣ်ဂံၢ်ဟ့ၣ်ဘါ ပှၤသ့ဘၣ်လီၤဆီတဖၣ် ကအိၣ်ဒီး တၢ်ပလီၢ်သးလၢ တၢ်လီၤဆီတဖၣ်အဂ့ၢ်ဒီး တၢ်အံၤသ့ၣ်တဖၣ် မၤဘၣ်ဒိဘၣ်ထံး တၢ်ရ့လိာ်ဘၣ်ထွဲဒီး ပှၤသ့ၣ်တဖၣ်လၢ အ၀ဲသ့ၣ်ကွၢ်ထွဲမၤစၢၤ၀ဲလီၤ. ပှၤနုာ်လီၤမၤထွဲတၢ်တဖၣ် ကဘၣ်မၤတၢ်လၢ တၢ်အိၣ်သးအနီၢ်ကီၢ် တၢ်ဂဲၤလိတဖၣ်အပူၤလၢ ကဒုးကဲဘျုးဒိးန့ၢ် တၢ်သ့တၢ်ဘၣ်လၢ တၢ်ဒုးအိၣ်ထီၣ်တၢ်ရ့လိာ်မုာ်လိာ်အဂ့ၤအကဲဘျူးလၢ ပှၤသ့ၣ်တဖၣ်လၢ တၢ်ဆဲးတၢ်လၤလီၤဆီတဖၣ်အဂီၢ်လီၤ.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="course.database">
+        <unit canResegment="no" id="course.OTPS-L1.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson One: History and Overview of the Opioid Epidemic</source>
+                <target xml:space="preserve">တၢ်မၤလိ တၢ- တၢ်စံၣ်စိၤတဲစိၤဒီး တၢ်ကွၢ်ထံဆိကမိၣ်က့ၤ ဘၣ်ဃးဒီး တၢ်အီကသံၣ်အိဖံဝဲးအါတလၢအဃိ တၢ်ဆါသံသတြိာ်အဂ့ၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L2.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson Two: Opioids 101 — A Brief Overview of the Types and Effects of Opioids</source>
+                <target xml:space="preserve">တၢ်မၤလိ ခံ- အိဖံဝဲး 101 — တၢ်ပဲာ်ထံနီၤဖးဖုၣ်ကိာ် ဘၣ်ဃးဒီး အိဖံဝဲးအကလုာ်တဖၣ်ဒီး အတၢ်ဒိဘၣ်တဖၣ်အဂ့ၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L3.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson Three: Opioid Use Disorder Treatment and Recovery</source>
+                <target xml:space="preserve">တၢ်မၤလိ သၢ- တၢ်စူးကါ ကသံၣ်အိဖံဝဲးတၢ်တဘၣ်လီၢ်ဘၣ်စး, တၢ်ကူစါယါဘျါဒီး တၢ်အိၣ်ဆူၣ်အိၣ်ချ့ ဂ့ၤထီၣ်က့ၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L4-CERT.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Opioid Training for Peer Specialists Completion Certificate</source>
+                <target xml:space="preserve">တၢ်သိၣ်လိနဲၣ်လိ ဘၣ်ဃးဒီးကသံၣ်အိဖံဝဲး လၢပှၤကူၣ်သ့စဲၣ်နီၤ ပှဲၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲတၢ်မၤလိဝံၤလံာ်အုၣ်သးအဂီၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.NEO-L1.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">New and Emerging Opioids: A Supplement to Opioid Training for Peer Specialists</source>
+                <target xml:space="preserve">ကသံၣ်အိဖံဝဲးအသီဒီး အဟဲအိၣ်ဖျါထီၣ်တဖၣ်- တၢ်ထၢနုာ်အါထီၣ်လၢ ကသံၣ်အိဖံဝဲးတၢ်မၤလိ ပှၤကူၣ်သ့စဲၣ်နီၤပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲတဖၣ်အဂီၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.NEO-L2-CERT.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">New and Emerging Opioids Completion Certificate</source>
+                <target xml:space="preserve">ကသံၣ်အိဖံဝဲးအသီဒီး အဟဲအိၣ်ဖျါထီၣ်တဖၣ် တၢ်မၤလိကတၢၢ် လံာ်အုၣ်သး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L1.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson One: Minnesota’s Mosaic of Cultures</source>
+                <target xml:space="preserve">တၢ်မၤလိ တၢ- Minnesota အလီၢ်ကျဲလၢအိၣ်ဒီး တၢ်ဆဲးတၢ်လၤအါမး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L2.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson Two: The Principles of Cultural Affirmation</source>
+                <target xml:space="preserve">တၢ်မၤလိ ခံ- တၢ်သိၣ်တၢ်သီမီၢ်ပှၢ် ဘၣ်ထွဲဒီးတၢ်သ့ၣ်ညါတူၢ်လိာ်တၢ်ဆဲးတၢ်လၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L3.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson Three: Putting Cultural Responsiveness into Action</source>
+                <target xml:space="preserve">တၢ်မၤလိ သၢ- တၢ်ဟံးဂ့ၢ်ဝီမၤတၢ် ဘၣ်ဃးဒီးတၢ်မၤဘၣ်လိာ်က့ၤတၢ် ကြၢးဘၣ်ဒီးတၢ်ဆဲးတၢ်လၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L4-CERT.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Culturally Affirming Peer Support Completion Certificate</source>
+                <target xml:space="preserve">ပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲ လၢကြၢးဘၣ်ဒီးတၢ်ဆဲးတၢ်လၤ တၢ်မၤလိဝံၤလံာ်အုၣ်သး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L1.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">In this lesson, you’ll learn appropriate terminology in describing substance use disorders such as Opioid Use Disorder (OUD), the incidence rates of national substance use and use disorders, the history of opioid use, the current state of opioid use nationally and in Minnesota, and how to use this knowledge to bring an informed approach to interactions with persons you serve.</source>
+                <target xml:space="preserve">လၢတၢ်မၤလိအံၤအပူၤ, နကမၤလိဘၣ် ဝီၢ်သြဲလၢအကြၢးအဘၣ် လၢတၢ်ပာ်ဖျါထီၣ် တၢ်စူးကါကသံၣ်မူၤဘှီး အဂီၢ် အဒိဒ်သိး တၢ်စူးကါ ကသံၣ်အိဖံဝဲးတၢ်တဘၣ်လိာ်ဘၣ်စး (OUD), တၢ်ပာ်ပနီၣ် တၢ်ကဲထီၣ်သးလၢ ထံကီၢ်ဒီဘ့ၣ်တၢ်စူးကါကသံၣ်မူၤဘှီးဒီး တၢ်စဲကသံၣ်မူၤဘှီးတဖၣ်, တၢ်စူးကါကသံၣ်မၤကိညၢ်တၢ်ဆါအ့ၣ်စိၢ်အ့ၣ်ထုး အတၢ်စံၣ်စိၤ, ကတီၢ်ခဲအံၤ တၢ်စူးကါ ကသံၣ်မၤကိညၢ်တၢ်ဆါအ့ၣ်စိၢ်အ့ၣ်ထုး လၢထံကီၢ်ဒီဘ့ၣ်ဒီးလၢ Minnesota အပူၤ, ဒီးတၢ်ကဘၣ်စူးကါ တၢ်သ့ၣ်ညါနၢ်ပၢၢ်အံၤ လၢကဟဲစိာ်န့ၢ် တၢ်ဒုးသ့ၣ်ညါ တၢ်သုးဘူးဃီၤသးဆူ တၢ်ရ့လိာ်ဘၣ်ထွဲဒီး ပှၤတဖၣ်လၢနမၤစၢၤအီၤ ဒ်လဲၣ်အဂ့ၢ်န့ၣ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L2.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">In this lesson, you’ll learn to identify and describe the types of opioids and their derivation, describe how opioids affect the brain and body, describe the physical process through which opioids create dependence, and consider how to apply this information when you provide support to an individual with an Opioid Use Disorder (OUD).</source>
+                <target xml:space="preserve">လၢတၢ်မၤလိအံၤအပူၤ, နကမၤလိဘၣ်တၢ် ဒ်သိးနကသ့ၣ်ညါပာ်ပနီၣ်ဒီး ပာ်ဖျါထီၣ် ကသံၣ်အိဖံဝဲးအကလုာ်တဖၣ်ဒီး အတၢ်ဟဲလီၤစၢၤတဖၣ်, ပာ်ဖျါထီၣ် ကသံၣ်မၤကိညၢ်တၢ်ဆါအ့ၣ်စိၢ်အ့ၣ်ထုး အတၢ်ဒိဘၣ် ခိၣ်နူၢ်ဒီးနီၢ်ခိအဂ့ၢ် ပာ်ဖျါထီၣ် နီၢ်ခိအတၢ်လဲၤခီဖျိ တၢ်လၢ ကသံၣ်မၤကိညၢ်တၢ်ဆါအ့ၣ်စိၢ်အ့ၣ်ထုး ဒုးအိၣ်ထီၣ် တၢ်စဲ, ဒီး ဆိကမိၣ်လၢ ကဘၣ်စူးကါတၢ်ဂ့ၢ်တၢ်ကျိၤအံၤ ဖဲလၢ နဟ့ၣ်ပှၤတဂၤ လၢအအိၣ်ဒီး တၢ်စူးကါ ကသံၣ်အိဖံဝဲးတဘၣ်လိာ်ဘၣ်စး (OUD) တၢ်ဆီၣ်ထွဲ အခါန့ၣ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L3.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">In this lesson, you’ll learn to describe a peer’s role in treatment and recovery based on the peer recovery domains, identify maintenance and overdose reversal medications, identify non-medication options used in treatment and recovery, and learn about — and practice — person-centered conversational and motivational interviewing techniques when providing support to persons you serve.</source>
+                <target xml:space="preserve">လၢတၢ်မၤလိအံၤအပူၤ, နကမၤလိဘၣ် တၢ်ပာ်ဖျါထီၣ် ပှၤကွၢ်ထွဲတၢ်တဂၤ အမူအဒါ လၢတၢ်ကူစါယါဘျါဒီး တၢ်အိၣ်ဆူၣ်အိၣ်ချ့ဂ့ၤထီၣ် လၢပှၤလၢအဘၣ်တၢ်ကွၢ်ထွဲ အိၣ်ဆူၣ်အိၣ်ချ့ဂ့ၤထီၣ်က့ၤ တၢ်ဂ့ၢ်အဖီခိၣ်, သ့ၣ်ညါပာ်ပနီၣ် တၢ်အံးထွဲကွၢ်ထွဲက့ၤတၢ်ဒီး တၢ်ခီဆၢကဒါက့ၤ တၢ်စူးကါကသံၣ်အါတလၢ, သ့ၣ်ညါပာ်ပနီၣ် တၢ်ဃုထၢလၢတမ့ၢ်ဘၣ် ကသံၣ်ကသီတဖၣ် လၢတၢ်ကူစါယါဘျါဒီး တၢ်အိၣ်ဆူၣ်အိၣ်ချ့ဂ့ၤထီၣ်က့ၤအပူၤ, ဒီး မၤလိဘၣ်တၢ်ဂ့ၢ် ဒီးမၤလိသ့ထီၣ်သး နီၢ်ကစၢ် တၢ်ပာ်ပညိၣ် တၢ်တဲတၢၣ်ပီၣ်သကိးတၢ်ဒီး တၢ်ထိၣ်ဟူးထိၣ်ဂဲၤ တၢ်သံကွၢ်စံးဆၢအကျဲကပူၤတဖၣ် ဖဲလၢ နဟ့ၣ်ထီၣ်တၢ်ဆီၣ်ထွဲဆူ ပှၤလၢနမၤစၢၤအီၤတဖၣ်အခါလီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L4-CERT.description">
+            <originalData>
+                <data id="b_0_start">&lt;b&gt;</data>
+                <data id="b_0_end">&lt;/b&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">To view and print your certificate press the <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</source>
+                <target xml:space="preserve">ကကွၢ်ဒီး စဲကျံးထုးထီၣ် လံာ်အုၣ်သးလၢနဒိးန့ၢ်အီၤအဂီၢ် ဆီၣ်လီၤ <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">အိးထီၣ်</pc> နီၣ်ဆီၣ်ခံတက့ၢ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.NEO-L1.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The course examines the evolving opioid crisis with an emphasis on illegal opioids, synthetic opioid-like substances, and stimulants that are becoming increasingly available everywhere in Minnesota. The course familiarizes peer specialists and others with a professional interest in substance use and recovery with the nature of the new drugs and the risks and dangers posed by each.</source>
+                <target xml:space="preserve">တၢ်မၤလိအံၤ သမံသမိး အိဖံဝဲးတၢ်ဂ့ၢ်ကီအါထီၣ်အဂ့ၢ် ခီဖျိတၢ်ကွၢ်ဘူးဘူးတံၢ်တံၢ် အိဖံဝဲးလၢတဖိးဒီသဲစး, ကသံၣ်အဂၤလၢ လီၤဂာ်ဒီးအိဖံဝဲးတဖၣ်, ဒီး ကသံၣ်ထိၣ်ဟူးထိၣ်ဂဲၤသးတဖၣ်လၢ ပှၤဒိးန့ၢ်အီၤသ့အါထီၣ်လၢ Minnesota တၢ်လီၢ်ကိးပူၤဒဲးန့ၣ်လီၤ. တၢ်မၤလိအံၤ ဒုးသ့ၣ်ညါညီနုာ် ပှၤသ့ဘၣ်လီၤဆီဒီး ပှၤအဂၤတဖၣ်အိၣ်ဒီးတၢ်သးစဲလၢ တၢ်သူကမၣ်ကသံၣ်သးအတၢ်ဆါမၤဘျါက့ၤတဖၣ်လၢ ကသံၣ်အသီတဖၣ်န့ဆၢၣ်တၢ်အိၣ်သးအဂ့ၢ်ဒီး တၢ်ဘၣ်ယိၣ်ဘၣ်ဒိးဘၣ်ထံးလၢ ကသံၣ်တဖၣ်ဒုးကဲထီၣ်၀ဲသ့တဖၣ်အဂ့ၢ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.NEO-L2-CERT.description">
+            <originalData>
+                <data id="b_0_start">&lt;b&gt;</data>
+                <data id="b_0_end">&lt;/b&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">To view and print your certificate press the <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</source>
+                <target xml:space="preserve">ကကွၢ်ဒီး စဲကျံးထုးထီၣ် လံာ်အုၣ်သးလၢနဒိးန့ၢ်အီၤအဂီၢ် ဆီၣ်လီၤ <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">အိးထီၣ်</pc> နီၣ်ဆီၣ်ခံတက့ၢ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L1.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson One identifies Minnesota’s wide range of diverse cultures and surveys six prominent cultures, emphasizing language, customs, values, and traditions as key distinguishing characteristics of each. Participants acquire knowledge and skills for navigating cultural differences among those they serve, building cultural responsiveness and competence to help strengthen those relationships.</source>
+                <target xml:space="preserve">တၢ်မၤလိတၢအပူၤ အိၣ်ဒီး Minnesota အတၢ်ဆဲးတၢ်လၤလီၤဆီတဖၣ်ဒီး တၢ်သံကွၢ်လံာ်က့ ဘၣ်ဃးဒီး တၢ်ဆဲးတၢ်လၤအဒိၣ် ဃုခါ, တၢ်ဒိးပာ်ဒိၣ်ကျိာ်, တၢ်လုၢ်တၢ်လၢ်, တၢ်ပာ်ဒိၣ်ပာ်ပှ့ၤ, တၢ်သိၣ်တၢ်သီတဖၣ် ဒ်မ့ၢ်တၢ်တဖၣ်လၢအဒုးမၤလီၤဆီ ပှၤတဂၤအတၢ်အိၣ်သးန့ၣ်လီၤ. ပှၤနုာ်လီၤမၤထွဲတၢ်တဖၣ် ကဒိးန့ၢ်တၢ်သ့ၣ်ညါဒီး တၢ်သ့တၢ်ဘၣ်တဖၣ် ဘၣ်ဃးဒီး တၢ်ဃုကွၢ်တၢ်ဆဲးတၢ်လၤအလီၤဆီလၢ ပှၤလၢအ၀ဲသ့ၣ်ဘၣ်ရ့လိာ်၀ဲတဖၣ်အဂီၢ်, ဒုးအိၣ်ထီၣ်တၢ်စံးဆၢဒီး တၢ်သ့ကြၢးဘၣ်လၢ ကဟ့ၣ်မၤစၢၤဒုးဆူၣ်ထီၣ် တၢ်ရ့လိာ်ဘၣ်ထွဲတဖၣ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L2.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson Two focuses on cultural awareness and introduces key principles for initiating and maintaining productive interactions and relationships with persons from diverse cultures. The lesson explores cultural differences and their impact on communication. It emphasizes skills to overcome barriers and provide culturally affirming support.</source>
+                <target xml:space="preserve">တၢ်မၤလိခံန့ၣ် ဘၣ်ဃးဒီး တၢ်သ့ၣ်ညါတၢ်ဆဲးတၢ်လၢအလီၤဆီဒီး ပာ်ဖျါထီၣ်တၢ်ဂ့ၢ်မိၢ်ပှၢ်တဖၣ်လၢ တၢ်စးထီၣ်မၤဒီး ပၢဆှၢတၢ်ရ့လိာ်သကိးဆူ ပှၤလၢအိၣ်ဒီးတၢ်ဆဲးတၢ်လၤလီၤဆီတဖၣ်လီၤ. တၢ်မၤလိအပူၤ သုကထံၣ်ဖျါဘၣ် တၢ်ဆဲးတၢ်လၢအလီၤဆီတဖၣ်ဒီး တၢ်သ့ၣ်တဖၣ်အတၢ်ဘၣ်ဒိလၢ တၢ်ရ့လိာ်မုာ်လိာ်အပူၤလီၤ. တၢ်အံၤဒုးပာ်ဒိၣ်ထီၣ် တၢ်သ့တၢ်ဘၣ်လၢ သုကဆှၢခီဖျိတၢ်တြီဆၢတဖၣ်ဒီး ဟ့ၣ်တၢ်မၤစၢၤလၢ ကဲဘျုးလၢတၢ်ဆဲးတၢ်လၢအပူၤလီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L3.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Lesson Three transitions from learning to doing by practicing concepts learned in previous lessons. Participants are challenged to identify and successfully bridge cultural differences by engaging in several interactive scenarios. This learn-by-doing approach enables participants to develop and grow their ability to navigate relationships with people from different cultures by establishing rapport, adjusting communication styles, and avoiding and repairing microaggressions.</source>
+                <target xml:space="preserve">တၢ်မၤလိသၢန့ၣ်မ့ၢ်၀ဲ တၢ်မၤလိလၢပမၤလိတ့ၢ်အီၤတဖၣ်န့ၣ် ပကဘၣ်စးထီၣ်မၤထွဲအီၤအပတီၢ်န့ၣ်လီၤ. ပှၤနုာ်လီၤမၤထွဲတၢ်တဖၣ် ကဘၣ်ဃုထံၣ်သ့ၣ်ညါဒီး တၢ်ဆဲးတၢ်လၤလီၤဆီတဖၣ်န့ၣ် ကဘၣ်ဘွါရှဲဒုးကဲထီၣ်လိၣ်ထီၣ်အီၤလၢ တၢ်အိၣ်သးအဒိသ့ၣ်တဖၣ်အပူၤလီၤ. မၤလိ-ခီဖျိ-တၢ်ဖံးတၢ်မၤ အကျိၤအကျဲတခါအံၤန့ၣ် လၢပှၤမၤလိတၢ်တဖၣ်အဂီၢ် ဒုးအိၣ်ထီၣ်ဒီး မၤအါထီၣ်တၢ်သ့တၢ်ဘၣ်လၢ တၢ်ရ့လိာ်သကိးဒီး ပှၤလၢတၢ်ဆဲးတၢ်လၤလီၤဆီ ခီဖျိတၢ်မၤကဲထီၣ် ရဲးဖိး, တၢ်မၤဘၣ်လိၣ်ဘၣ်စးက့ၤတၢ်ရ့လိာ်အကျိၤအကျဲတဖၣ်, ဒီး တၢ်ဟးဆှဲးဒီး ဘှီက့ၤ တၢ်ကွၢ်မဲာ်ညီနုၢ်တဖၣ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L4-CERT.description">
+            <originalData>
+                <data id="b_0_start">&lt;b&gt;</data>
+                <data id="b_0_end">&lt;/b&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">To view and print your certificate press the <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</source>
+                <target xml:space="preserve">ကကွၢ်ဒီး စဲကျံးထုးထီၣ် လံာ်အုၣ်သးလၢနဒိးန့ၢ်အီၤအဂီၢ် ဆီၣ်လီၤ <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">အိးထီၣ်</pc> နီၣ်ဆီၣ်ခံတက့ၢ်.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="login_errors.html">
+        <unit canResegment="no" id="login_errors.title">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Oops! We found a problem!</source>
+                <target xml:space="preserve">အိ! ပထံၣ် တၢ်ဂ့ၢ်ကီလံတခါလံ!</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.invalid">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Some of the information you provided does not match our records. Please re-enter your username and password. Then click Sign In.</source>
+                <target xml:space="preserve">တၢ်ဂ့ၢ်တၢ်ကျိၤတနီၤလၢ နဟ့ၣ်ထီၣ်န့ၣ် တဘၣ်လိာ်အသးဒီး တၢ်ကွဲးနီၣ်ကွဲးဃါဘၣ်. ဝံသးစူၤ ထၢနုာ်ကဒါက့ၤ နမံၤစူးကါဒီး လံာ်ဖျၢၣ်ခူသူၣ်တက့ၢ်. မ့ၢ်ဝံၤ စံၢ်လီၤ ဆဲးလီၤမံၤနုာ်လီၤ တက့ၢ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.blank">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Some of the information you provided does not match our records. Please re-enter your username and password. Then click Sign In.</source>
+                <target xml:space="preserve">တၢ်ဂ့ၢ်တၢ်ကျိၤတနီၤလၢ နဟ့ၣ်ထီၣ်န့ၣ် တဘၣ်လိာ်အသးဒီး တၢ်ကွဲးနီၣ်ကွဲးဃါဘၣ်. ဝံသးစူၤ ထၢနုာ်ကဒါက့ၤ နမံၤစူးကါဒီး လံာ်ဖျၢၣ်ခူသူၣ်တက့ၢ်. မ့ၢ်ဝံၤ စံၢ်လီၤ ဆဲးလီၤမံၤနုာ်လီၤ တက့ၢ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.inactive">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Your account is inactive.</source>
+                <target xml:space="preserve">နအကီးန့ၣ် တမူတဂဲၤလၢၤဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.fatal">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The system is unavailable.</source>
+                <target xml:space="preserve">တၢ်မၤအကျိၤအကျဲအံၤ တၢ်ဒိးန့ၢ်အီၤတသ့ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.session_expired">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Your session has expired.</source>
+                <target xml:space="preserve">နတၢ်ဆၢကတီၢ်လၢာ်လံ.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="registration_errors.html">
+        <unit canResegment="no" id="registration_errors.title">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Oops! We found a problem!</source>
+                <target xml:space="preserve">အိ! ပထံၣ် တၢ်ဂ့ၢ်ကီလံတခါလံ!</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Some required fields are missing.</source>
+                <target xml:space="preserve">တၢ်လၢအလိၣ်တနီၤန့ၣ် တအိၣ်ဖဲအံၤဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.fatal">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The system is unavailable.</source>
+                <target xml:space="preserve">တၢ်မၤအကျိၤအကျဲအံၤ တၢ်ဒိးန့ၢ်အီၤတသ့ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.first_name_required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The first name field is required.</source>
+                <target xml:space="preserve">ကဘၣ်ထၢနုာ် မံၤခီၣ်ထံးလီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.last_name_required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The last name field is required.</source>
+                <target xml:space="preserve">ကဘၣ်ထၢနုာ် မံၤကတၢၢ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.email_address_required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The email address field is required.</source>
+                <target xml:space="preserve">ကဘၣ်ထၢနုာ် အံမ့ (လ) လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.email_address_exists">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">That email address is already registered.</source>
+                <target xml:space="preserve">အံမ့အံၤ တၢ်ဆဲးလီၤမံၤပာ်စၢၤဝံၤလံ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.username_required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The username field is required.</source>
+                <target xml:space="preserve">ကဘၣ်ထၢနုာ် မံၤစူးကါလီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.username_exists">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">That username is already registered.</source>
+                <target xml:space="preserve">မံၤစူးကါအံၤ တၢ်ဆဲးလီၤမံၤပာ်စၢၤ ဝံၤလံ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.password_required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The password field is required.</source>
+                <target xml:space="preserve">ဘၣ်ထၢနုာ် လံာ်ဖျၢၣ်ခူသူၣ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.password_match">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The passwords do not match.</source>
+                <target xml:space="preserve">လံာ်ဖျၢၣ်ခူသူၣ်တဖၣ်န့ၣ် တဘၣ်လိာ်ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.password_again_required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The password again field is required.</source>
+                <target xml:space="preserve">ကဘၣ်ထၢနုာ်ကဒီး လံာ်ဖျၢၣ်ခူသူၣ်န့ၣ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.password_again_match">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The passwords do not match.</source>
+                <target xml:space="preserve">လံာ်ဖျၢၣ်ခူသူၣ်တဖၣ်န့ၣ် တဘၣ်လိာ်ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.registration_code_required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The group field is required.</source>
+                <target xml:space="preserve">ကဘၣ်ထၢနုာ် ကရူၢ်န့ၣ်လီၤ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.registration_code_invalid">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">That registration code is invalid.</source>
+                <target xml:space="preserve">တၢ်ဆဲးလီၤမံၤ အနီၣ်ဂံၢ်ဝဲန့ၣ် တၢ်စူးကါတသ့ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.registration_code_full">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">There are no more seats available using that registration code.</source>
+                <target xml:space="preserve">တၢ်ဆဲးလီၤမံၤ အနီၣ်ဂံၢ်ဝဲန့ၣ်အဂီၢ် တၢ်လီၢ်တအိၣ်လၢၤဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.captcha_required">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">The captcha is required.</source>
+                <target xml:space="preserve">ခဲးပခၠၢၣ် လိၣ်ဝဲလီၤ.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="menu.html">
+        <unit canResegment="no" id="menu.home">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Home</source>
+                <target xml:space="preserve">ပှာ်ယဲၤကဘျံး မိၢ်ပှၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="menu.language">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Language</source>
+                <target xml:space="preserve">ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="menu.profile">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Profile</source>
+                <target xml:space="preserve">နီၢ်ကစၢ်ဂ့ၢ်ကျိၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="menu.help">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Help</source>
+                <target xml:space="preserve">မၤစၢၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="menu.signout">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Sign Out</source>
+                <target xml:space="preserve">ထွးထီၣ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="home.html">
+        <unit canResegment="no" id="home.title">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Home Page</source>
+                <target xml:space="preserve">ပှာ်ယဲၤကဘျံး မိၢ်ပှၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.welcome">
+            <originalData>
+                <data id="h2_0_start">&lt;h2&gt;</data>
+                <data id="h2_0_end">&lt;/h2&gt;</data>
+                <data id="p_1_start">&lt;p&gt;</data>
+                <data id="p_1_end">&lt;/p&gt;</data>
+                <data id="p_2_start">&lt;p&gt;</data>
+                <data id="p_2_end">&lt;/p&gt;</data>
+                <data id="p_3_start">&lt;p&gt;</data>
+                <data id="p_3_end">&lt;/p&gt;</data>
+                <data id="button_4_start">&lt;button&gt;</data>
+                <data id="button_4_end">&lt;/button&gt;</data>
+                <data id="p_5_start">&lt;p&gt;</data>
+                <data id="p_5_end">&lt;/p&gt;</data>
+                <data id="p_6_start">&lt;p&gt;</data>
+                <data id="p_6_end">&lt;/p&gt;</data>
+                <data id="a_7_start">&lt;a href="https://www.mcboard.org/"&gt;</data>
+                <data id="a_7_end">&lt;/a&gt;</data>
+                <data id="p_8_start">&lt;p&gt;</data>
+                <data id="p_8_end">&lt;/p&gt;</data>
+                <data id="p_9_start">&lt;p style="color: black; background-color: #fdf5f1; border: 3px solid #d96016; padding: 0.5em;"&gt;</data>
+                <data id="p_9_end">&lt;/p&gt;</data>
+                <data id="strong_10_start">&lt;strong&gt;</data>
+                <data id="strong_10_end">&lt;/strong&gt;</data>
+                <data id="em_11_start">&lt;em&gt;</data>
+                <data id="em_11_end">&lt;/em&gt;</data>
+                <data id="br_12">&lt;br&gt;</data>
+                <data id="strong_13_start">&lt;strong&gt;</data>
+                <data id="strong_13_end">&lt;/strong&gt;</data>
+                <data id="hr_14">&lt;hr&gt;</data>
+                <data id="p_15_start">&lt;p&gt;</data>
+                <data id="p_15_end">&lt;/p&gt;</data>
+                <data id="a_16_start">&lt;a href="mailto:{1}"&gt;</data>
+                <data id="a_16_end">&lt;/a&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve"><pc dataRefStart="h2_0_start" dataRefEnd="h2_0_end" id="h2_0" type="fmt">Hi, {0}, and welcome to MCB’s Online Training for Peer Specialists!</pc>
+<pc dataRefStart="p_1_start" dataRefEnd="p_1_end" id="p_1" type="fmt">You are on your personal home page.</pc>
+<pc dataRefStart="p_2_start" dataRefEnd="p_2_end" id="p_2" type="fmt">On the right, you’ll see the course list. Click on a course title to reveal the course description and a summary of each lesson. As you work your way through the course, your status will be updated to reflect your progress.</pc>
+<pc dataRefStart="p_3_start" dataRefEnd="p_3_end" id="p_3" type="fmt">Click the <pc dataRefStart="button_4_start" dataRefEnd="button_4_end" id="button_4" type="fmt">Launch</pc> button to the right of the available lesson to begin. The lessons must be taken in the order presented. When you complete a lesson, the next lesson will unlock.</pc>
+<pc dataRefStart="p_5_start" dataRefEnd="p_5_end" id="p_5" type="fmt">You do not have to complete a lesson in one session. If you EXIT before completing a lesson, we’ll remember where you left off and bring you back to the right point when you return.</pc>
+<pc dataRefStart="p_6_start" dataRefEnd="p_6_end" id="p_6" type="fmt">For your convenience, bookmark this page. Alternatively, sign in at <pc dataRefStart="a_7_start" dataRefEnd="a_7_end" id="a_7" type="link">www.mcboard.org</pc>.</pc>
+<pc dataRefStart="p_8_start" dataRefEnd="p_8_end" id="p_8" type="fmt">Thank you for participating in this online training program. Thank you, too, for your commitment to helping others in their recovery journey.</pc>
+<pc dataRefStart="p_9_start" dataRefEnd="p_9_end" id="p_9" type="fmt"><pc dataRefStart="strong_10_start" dataRefEnd="strong_10_end" id="strong_10" subType="xlf:b" type="fmt">NOTE:</pc> These courses are <pc dataRefStart="em_11_start" dataRefEnd="em_11_end" id="em_11" subType="xlf:i" type="fmt">not</pc> designed to be viewed on a Smartphone.<ph dataRef="br_12" id="br_12" type="fmt" />
+<pc dataRefStart="strong_13_start" dataRefEnd="strong_13_end" id="strong_13" subType="xlf:b" type="fmt">Please use a tablet, laptop or desktop computer.</pc></pc>
+<ph dataRef="hr_14" id="hr_14" type="fmt" />
+<pc dataRefStart="p_15_start" dataRefEnd="p_15_end" id="p_15" type="fmt">For any technical or connection issues, please email us at <pc dataRefStart="a_16_start" dataRefEnd="a_16_end" id="a_16" type="link">{1}</pc>.</pc></source>
+                <target xml:space="preserve"><pc dataRefStart="h2_0_start" dataRefEnd="h2_0_end" id="h2_0" type="fmt">ဟ့, {0}, သးခုတူၢ်လိာ်မုာ်ဘၣ်လၢ MCB အတၢ်သိၣ်လိနဲၣ်လိလၢ အ့ထၢၣ်နဲးအဖီခိၣ် ပှၤကူၣ်သ့စဲၣ်နီၤပှၤကဒဲကဒဲတၢ်ဆီၣ်ထွဲတဖၣ်အဂီၢ်န့ၣ်လီၤ!</pc>
+<pc dataRefStart="p_1_start" dataRefEnd="p_1_end" id="p_1" type="fmt">နအိၣ်နဲဒၣ်လၢ နီၢ်ကစၢ် လံာ်ကဘျံးမိၢ်ပှၢ်အပူၤလီၤ.</pc>
+<pc dataRefStart="p_2_start" dataRefEnd="p_2_end" id="p_2" type="fmt">လၢစုထွဲတခီန့ၣ်, နကထံၣ်ဘၣ် တၢ်မၤလိအစရီလီၤ. စံၢ်လီၤ တၢ်မၤလိ အခိၣ်တီ လၢနကထံၣ်ဘၣ် တၢ်မၤလိ အတၢ်ပာ်ဖျါတဖၣ် ဒီး တၢ်မၤလိတမံၤဘၣ်တမံၤ အတၢ်ဂ့ၢ်ကျၢၢ်တံၢ်ဖုၣ်ကိၣ်န့ၣ်တက့ၢ်. ဖဲနမၤလိ တၢ်မၤလိအံၤအခါ, နတၢ်အိၣ်သးန့ၣ် ကဘၣ်မၤသီထီအီၤ လၢကပာ်ဖျါထီၣ် နတၢ်လဲၤထီၣ်လဲၤထီအဂီၢ်န့ၣ်လီၤ.</pc>
+<pc dataRefStart="p_3_start" dataRefEnd="p_3_end" id="p_3" type="fmt">စံၢ်လီၤ <pc dataRefStart="button_4_start" dataRefEnd="button_4_end" id="button_4" type="fmt">အိးထီၣ်</pc> ကမိာ်သၣ် ဖဲတၢ်မၤလိလၢ နဒိးန့ၢ်အီၤသ့ စုထွဲတကပၤ လၢနကစးထီၣ်အဂီၢ်တက့ၢ်. တၢ်မၤလိတဖၣ်န့ၣ် နကဘၣ်မၤလိအီၤ ဒ်တၢ်ဟ့ၣ်ထီၣ်အီၤ အသိးန့ၣ်လီၤ. နမၤလိ တၢ်မၤလိအံၤမ့ၢ်ဝံၤန့ၣ် တၢ်မၤလိအသီတခါ ကဘၣ်တၢ်အိးထီၣ်အီၤလီၤ.</pc>
+<pc dataRefStart="p_5_start" dataRefEnd="p_5_end" id="p_5" type="fmt">တလိၣ်လၢ နကမၤဝံၤ တၢ်မၤလိတဖၣ် တဘျီဃီဘၣ်. နမ့ၢ်ဟးထီၣ် တချုးလၢ နမၤဝံၤ တၢ်မၤလိတခါဒံးဘၣ်န့ၣ်, ပကတိၢ်နီၢ် တၢ်လီၤဖဲ နထွးထီၣ်ဒီး ဖဲနဟဲက့ၤနုာ်လၢခံတဘျီအခါ ပကအိးထီၣ်ကဒါက့ၤ တၢ်လီၢ်အံၤလီၤ.</pc>
+<pc dataRefStart="p_6_start" dataRefEnd="p_6_end" id="p_6" type="fmt">လၢကညီလၢနဂီၢ်အဂီၢ်, မးနီၣ်လံာ်ကဘျံးအံၤတက့ၢ်, လၢခံတဘျီ, ဆဲးလီၤမံၤနုာ်လီၤဖဲ <pc dataRefStart="a_7_start" dataRefEnd="a_7_end" id="a_7" type="link">www.mcboard.org</pc> တက့ၢ်.</pc>
+<pc dataRefStart="p_8_start" dataRefEnd="p_8_end" id="p_8" type="fmt">တၢ်ဘျုးလၢ နပၣ်ဃုာ်တၢ်လၢ အ့ထၢၣ်နဲး တၢ်သိၣ်လိမၤလိ အတၢ်ရဲၣ်တၢ်ကျဲၤအံၤ အပူၤအဃိလီၤ. စံးဘျုးဘၣ်စ့ၢ်ကီးနၤလၢ နတၢ်အၢၣ်လီၤသးလၢ ကမၤစၢၤပှၤတဖၣ်လၢ အတၢ်အိၣ်ဆူၣ်အိၣ်ချ့ဂ့ၤထီၣ် အတၢ်လဲၤအပူၤအဃိလီၤ.</pc>
+<pc dataRefStart="p_9_start" dataRefEnd="p_9_end" id="p_9" type="fmt"><pc dataRefStart="strong_10_start" dataRefEnd="strong_10_end" id="strong_10" subType="xlf:b" type="fmt">တိၢ်နီၣ်-</pc> တၢ်မၤလိအံၤ <pc dataRefStart="em_11_start" dataRefEnd="em_11_end" id="em_11" subType="xlf:i" type="fmt">တဘၣ်တၢ်တ့တိာ်ပာ်အီၤလၢ</pc> တၢ်ကကွၢ်အီၤလၢ စမးလီတဲစိအပူၤအဂီၢ်ဘၣ်.<ph dataRef="br_12" id="br_12" type="fmt" />
+<pc dataRefStart="strong_13_start" dataRefEnd="strong_13_end" id="strong_13" subType="xlf:b" type="fmt">ဝံသးစူၤ စူးကါဘၣ် တဲးဘလဲး, လဲး (ပ) တီး မ့တမ့ၢ် ဒဲးစတီး (ပ) ခီၣ်ဖၠူထၢၣ်တဖၣ်န့ၣ်တက့ၢ်.</pc></pc>
+<ph dataRef="hr_14" id="hr_14" type="fmt" />
+<pc dataRefStart="p_15_start" dataRefEnd="p_15_end" id="p_15" type="fmt">စဲးဖီကဟၣ်ပီညါ မ့တမ့ၢ် အ့ထၢၣ်နဲးတၢ်ဘျးစဲ အတၢ်ဂ့ၢ်ကီ မ့ၢ်အိၣ်တမံၤမံၤအဃိ, ဝံသးစူၤ ဆှၢပှၤအံမ့ (လ) ဖဲ <pc dataRefStart="a_16_start" dataRefEnd="a_16_end" id="a_16" type="link">{1}</pc> တက့ၢ်.</pc></target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_title">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Title</source>
+                <target xml:space="preserve">ခိၣ်တီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_action">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Action</source>
+                <target xml:space="preserve">တၢ်ဟံးဂ့ၢ်ဝီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_status">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Status</source>
+                <target xml:space="preserve">တၢ်အိၣ်သး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_assigned">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Assigned</source>
+                <target xml:space="preserve">တၢ်ဟ့ၣ်လီၤမူဒါ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_completed">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Completed</source>
+                <target xml:space="preserve">မၤဝံၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.launch_button">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Launch</source>
+                <target xml:space="preserve">အိးထီၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.continue_button">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Continue</source>
+                <target xml:space="preserve">ဆူညါ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.certificate_button">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Certificate</source>
+                <target xml:space="preserve">လံာ်အုၣ်သး</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.view_button">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">View</source>
+                <target xml:space="preserve">ကွၢ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.review_button">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Review</source>
+                <target xml:space="preserve">ကွၢ်ကဒါက့ၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.optional_courses.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Optional Courses</source>
+                <target xml:space="preserve">တၢ်မၤလိလၢ ထီၣ်တထီၣ်ဃုထၢသ့တဖၣ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.optional_courses.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">These courses are optional and were made available to you outside of a curriculum.</source>
+                <target xml:space="preserve">တၢ်မၤလိတဖၣ်အံၤ ထီၣ်တထီၣ်တၢ်ဃုထၢအီၤသ့ဒီး နဒိးန့ၢ်အီၤသ့ဖဲ လံာ်ညိၣ်သိၣ်ဒိၣ်အချၢန့ၣ်လီၤ.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="profile.html">
+        <unit canResegment="no" id="profile.title">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Profile</source>
+                <target xml:space="preserve">နီၢ်ကစၢ်ဂ့ၢ်ကျိၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.language">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Language</source>
+                <target xml:space="preserve">ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.email_address">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Email Address</source>
+                <target xml:space="preserve">အံမ့ (လ)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Name</source>
+                <target xml:space="preserve">မံၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.username">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Username</source>
+                <target xml:space="preserve">မံၤစူးကါ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.password">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Password</source>
+                <target xml:space="preserve">လံာ်ဖျၢၣ်ခူသူၣ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="help.html">
+        <unit canResegment="no" id="help.title">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Help</source>
+                <target xml:space="preserve">မၤစၢၤ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="help.content">
+            <originalData>
+                <data id="p_0_start">&lt;p&gt;</data>
+                <data id="p_0_end">&lt;/p&gt;</data>
+                <data id="a_1_start">&lt;a href="mailto:{0}"&gt;</data>
+                <data id="a_1_end">&lt;/a&gt;</data>
+                <data id="h2_2_start">&lt;h2&gt;</data>
+                <data id="h2_2_end">&lt;/h2&gt;</data>
+                <data id="ul_3_start">&lt;ul&gt;</data>
+                <data id="ul_3_end">&lt;/ul&gt;</data>
+                <data id="li_4_start">&lt;li&gt;</data>
+                <data id="li_4_end">&lt;/li&gt;</data>
+                <data id="em_5_start">&lt;em&gt;</data>
+                <data id="em_5_end">&lt;/em&gt;</data>
+                <data id="li_6_start">&lt;li&gt;</data>
+                <data id="li_6_end">&lt;/li&gt;</data>
+                <data id="li_7_start">&lt;li&gt;</data>
+                <data id="li_7_end">&lt;/li&gt;</data>
+                <data id="li_8_start">&lt;li&gt;</data>
+                <data id="li_8_end">&lt;/li&gt;</data>
+                <data id="li_9_start">&lt;li&gt;</data>
+                <data id="li_9_end">&lt;/li&gt;</data>
+                <data id="h2_10_start">&lt;h2&gt;</data>
+                <data id="h2_10_end">&lt;/h2&gt;</data>
+                <data id="ul_11_start">&lt;ul&gt;</data>
+                <data id="ul_11_end">&lt;/ul&gt;</data>
+                <data id="li_12_start">&lt;li&gt;</data>
+                <data id="li_12_end">&lt;/li&gt;</data>
+                <data id="li_13_start">&lt;li&gt;</data>
+                <data id="li_13_end">&lt;/li&gt;</data>
+                <data id="li_14_start">&lt;li&gt;</data>
+                <data id="li_14_end">&lt;/li&gt;</data>
+                <data id="li_15_start">&lt;li&gt;</data>
+                <data id="li_15_end">&lt;/li&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve"><pc dataRefStart="p_0_start" dataRefEnd="p_0_end" id="p_0" type="fmt">For any technical or connection issues, please email us at <pc dataRefStart="a_1_start" dataRefEnd="a_1_end" id="a_1" type="link">{0}</pc>.</pc>
+<pc dataRefStart="h2_2_start" dataRefEnd="h2_2_end" id="h2_2" type="fmt">Good to know</pc>
+<pc dataRefStart="ul_3_start" dataRefEnd="ul_3_end" id="ul_3" type="fmt">
+<pc dataRefStart="li_4_start" dataRefEnd="li_4_end" id="li_4" type="fmt">This course is best viewed on a desktop or laptop computer, or on newer iPad or Android tablets. <pc dataRefStart="em_5_start" dataRefEnd="em_5_end" id="em_5" subType="xlf:i" type="fmt">It is not designed to be viewed on a smartphone.</pc></pc>
+<pc dataRefStart="li_6_start" dataRefEnd="li_6_end" id="li_6" type="fmt">If you are taking the course in a corporate setting be sure that your organization allows access to external websites.</pc>
+<pc dataRefStart="li_7_start" dataRefEnd="li_7_end" id="li_7" type="fmt">You do not have to complete the course in one session. We encourage you to press NEXT before exiting. Failing to do so will require you to view again the last viewed slide before moving forward.</pc>
+<pc dataRefStart="li_8_start" dataRefEnd="li_8_end" id="li_8" type="fmt">This self-directed course has been designed to be completed in three hours. Your time to complete may vary.</pc>
+<pc dataRefStart="li_9_start" dataRefEnd="li_9_end" id="li_9" type="fmt">Upon completion of the course you will receive a personalized Completion Certificate.</pc>
+</pc>
+<pc dataRefStart="h2_10_start" dataRefEnd="h2_10_end" id="h2_10" type="fmt">Browser and device support</pc>
+<pc dataRefStart="ul_11_start" dataRefEnd="ul_11_end" id="ul_11" type="fmt">
+<pc dataRefStart="li_12_start" dataRefEnd="li_12_end" id="li_12" type="fmt">Windows: Chrome, Edge, Firefox (latest versions), and IE11.</pc>
+<pc dataRefStart="li_13_start" dataRefEnd="li_13_end" id="li_13" type="fmt">Mac: Safari and Firefox (latest versions).</pc>
+<pc dataRefStart="li_14_start" dataRefEnd="li_14_end" id="li_14" type="fmt">Apple iOS tablets: Safari and Google Chrome (latest versions).</pc>
+<pc dataRefStart="li_15_start" dataRefEnd="li_15_end" id="li_15" type="fmt">Android OS6 or later: Google Chrome (latest version).</pc>
+</pc></source>
+                <target xml:space="preserve"><pc dataRefStart="p_0_start" dataRefEnd="p_0_end" id="p_0" type="fmt">စဲးဖီကဟၣ်ပီညါ မ့တမ့ၢ် အ့ထၢၣ်နဲးတၢ်ဘျးစဲ အတၢ်ဂ့ၢ်ကီ မ့ၢ်အိၣ်တမံၤမံၤန့ၣ် ဝံသးစူၤ ဆှၢပၤအံမ့ (လ) ဖဲ <pc dataRefStart="a_1_start" dataRefEnd="a_1_end" id="a_1" type="link">{0}</pc> တက့ၢ်.</pc>
+<pc dataRefStart="h2_2_start" dataRefEnd="h2_2_end" id="h2_2" type="fmt">တၢ်လၢပဂ့ၤသ့ၣ်ညါ</pc>
+<pc dataRefStart="ul_3_start" dataRefEnd="ul_3_end" id="ul_3" type="fmt">
+<pc dataRefStart="li_4_start" dataRefEnd="li_4_end" id="li_4" type="fmt">တၢ်မၤလိအံၤ တၢ်မ့ၢ်ကွၢ်အီၤလၢ ခီၣ်ဖၠူထၢၣ် ဒဲးစတီး (ပ) မ့တမ့ၢ် လဲးပတီး (ပ), မ့တမ့ၢ် လၢ iPad မ့တမ့ၢ် အဲဒရွဲး တဲးပလဲးန့ၣ် ကမ့ၢ်တၢ်အဂ့ၤကတၢၢ်လီၤ. <pc dataRefStart="em_5_start" dataRefEnd="em_5_end" id="em_5" subType="xlf:i" type="fmt">တၢ်အံၤ တဘၣ်တၢ်တ့တိာ်ကျဲၤအီၤလၢ တၢ်ကကွၢ်အီၤလၢ စမးလီတဲစိဘၣ်.</pc></pc>
+<pc dataRefStart="li_6_start" dataRefEnd="li_6_end" id="li_6" type="fmt">နမ့ၢ်မၤလိတၢ်လၢ တၢ်ပာ်ဖှိၣ်တၢ်ဆီလီၤပာ်လီၤအဃိ မၤလီၤတံၢ်လၢ နတၢ်ကရၢကရိ ဟ့ၣ်တၢ်ပျဲလၢ တၢ်နုာ်လီၤကွၢ်တၢ်ဆူ ပှာ်သန့လၢတၢ်ချၢအပူၤန့ၣ်တက့ၢ်.</pc>
+<pc dataRefStart="li_7_start" dataRefEnd="li_7_end" id="li_7" type="fmt">တလိၣ်လၢနကမၤဝံၤ တၢ်မၤလိခဲလၢာ် တဘျီဃီဘၣ်. ပဟ့ၣ်ကူၣ်နၤလၢ နကစံၢ်လီၤ ဆူညါ တချုး နထွးထီၣ်ဒံးဘၣ်န့ၣ်လီၤ. နမ့ၢ်တမၤဒ်အံၤန့ၣ် နကဘၣ်ကွၢ်က့ၤနဲ တၢ်ဂီၤယဲၤဘ့ၣ်လၢ နကွၢ်တ့ၢ်အီၤ လၢခံကတၢၢ် တချုးလၢ နလဲၤဆူညါဒံးဘၣ်န့ၣ်လီၤ.</pc>
+<pc dataRefStart="li_8_start" dataRefEnd="li_8_end" id="li_8" type="fmt">နီၢ်ကစၢ် နဲၣ်လီၤသး တၢ်မၤလိအံၤ ဘၣ်တၢ်တ့တိာ်ကျဲၤအီၤ လၢတၢ်ကမၤဝံၤအီၤလၢ သၢနၣ်ရံၣ်အတီၢ်ပူၤလီၤ. နတၢ်ဆၢကတီၢ်လၢ ကမၤဝံၤအီၤန့ၣ် ကလီၤဆီဝဲလီၤ.</pc>
+<pc dataRefStart="li_9_start" dataRefEnd="li_9_end" id="li_9" type="fmt">နမၤလိတၢ်မၤလိအံၤ မ့ၢ်ဝံၤန့ၣ် နကဒိးန့ၢ်ဘၣ် တၢ်မၤဝံၤတၢ်လၢ နီၢ်ကစၢ်ဒၣ် လံာ်အုၣ်သးလီၤ.</pc>
+</pc>
+<pc dataRefStart="h2_10_start" dataRefEnd="h2_10_end" id="h2_10" type="fmt">ဘရီစၢၣ်ဒီး တၢ်ပီးတၢ်လီ တၢ်ဆီၣ်ထွဲ</pc>
+<pc dataRefStart="ul_11_start" dataRefEnd="ul_11_end" id="ul_11" type="fmt">
+<pc dataRefStart="li_12_start" dataRefEnd="li_12_end" id="li_12" type="fmt">Windows: Chrome, Edge, Firefox (ဘၢရှၢၣ် လၢခံကတၢၢ်), ဒီး IE11.</pc>
+<pc dataRefStart="li_13_start" dataRefEnd="li_13_end" id="li_13" type="fmt">Mac: Safari ဒီး Firefox (ဘၢရှၢၣ် လၢခံကတၢၢ်).</pc>
+<pc dataRefStart="li_14_start" dataRefEnd="li_14_end" id="li_14" type="fmt">Apple iOS tablets: Safari ဒီး Google Chrome (ဘၢရှၢၣ် လၢခံကတၢၢ်).</pc>
+<pc dataRefStart="li_15_start" dataRefEnd="li_15_end" id="li_15" type="fmt">Android OS6 မ့တမ့ၢ် အသီလၢခံ- Google Chrome (ဘၢရှၢၣ် လၢခံကတၢၢ်).</pc>
+</pc></target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="language.database">
+        <unit canResegment="no" id="language.am.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Amharic</source>
+                <target xml:space="preserve">ဟင်ဒီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.en.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">English</source>
+                <target xml:space="preserve">အဲကလံးကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.es.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Spanish</source>
+                <target xml:space="preserve">စပ့ၣ်ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.hi.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Hindi</source>
+                <target xml:space="preserve">အမ်ဟာရစ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.hmn.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Hmong</source>
+                <target xml:space="preserve">မိာ်ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.ksw-Mymr.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">S’gaw Karen</source>
+                <target xml:space="preserve">ကညီကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.so.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Somali</source>
+                <target xml:space="preserve">ဆိၣ်မၣ်လံၣ်ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.zh.name">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Chinese</source>
+                <target xml:space="preserve">တရုတ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.am.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Amharic</source>
+                <target xml:space="preserve">ဟင်ဒီ</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.en.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">English</source>
+                <target xml:space="preserve">အဲကလံးကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.es.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Spanish</source>
+                <target xml:space="preserve">စပ့ၣ်ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.hi.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Hindi</source>
+                <target xml:space="preserve">အမ်ဟာရစ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.hmn.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Hmong</source>
+                <target xml:space="preserve">မိာ်ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.ksw-Mymr.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">S’gaw Karen Myanmar script</source>
+                <target xml:space="preserve">ကညီကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.so.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Somali</source>
+                <target xml:space="preserve">ဆိၣ်မၣ်လံၣ်ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.zh.description">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Chinese (Simplified)</source>
+                <target xml:space="preserve">တရုတ် (ရိုးရှင်းသော)</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="language.html">
+        <unit canResegment="no" id="language.title">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Language</source>
+                <target xml:space="preserve">ကျိာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.content">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Our training programs are available in multiple languages. Choose your preferred language by pressing a button below.</source>
+                <target xml:space="preserve">ပတၢ်သိၣ်လိမၤလိ အတၢ်ရဲၣ်တၢ်ကျဲၤတဖၣ်န့ၣ် တၢ်ဒိးန့ၢ်အီၤသ့လၢ ကျိာ်တၢ်ကတိၤ အါမံၤလီၤ. ဃုထၢကျိာ်တၢ်ကတိၤလၢ နအဲၣ်ဒိးအီၤ ခီဖျိနစံၢ်လီၤနဲ နီၣ်ဆီၣ်ခံလၢလာ်အံၤတက့ၢ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.clear">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Clear all language settings</source>
+                <target xml:space="preserve">တြူာ်ကွံာ် ကျိာ်တၢ်ကတိၤတၢ်ဆီလီၤပာ်လီၤခဲလၢာ်</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.clear_button">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Clear</source>
+                <target xml:space="preserve">တြူာ်ကွံာ်</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="CurriculumPurchaseRefundTool.java">
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.refund.are_you_sure">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">Are you sure you wish to refund this purchase? You will no longer be able to access this curriculum.</source>
+                <target xml:space="preserve">မ့ၢ်နလီၤတံၢ်လၢ နအဲၣ်ဒိး ဒိးန့ၢ်ကဒါက့ၤစ့ လၢတၢ်ပှ့ၤအံၤအဂီၢ်ဧါ. မ့မ့ၢ်ဒ်န့ၣ်ဒီး နနုာ်လီၤလၢလံာ်ညိၣ်သိၣ်ဒိၣ်အံၤ တသ့လၢၤဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.not_specified">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">There was no purchase specified.</source>
+                <target xml:space="preserve">တၢ်တပာ်ဖျါဃာ် တၢ်ပှ့ၤတၢ်ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.unknown">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This is an unknown purchase and cannot be refunded.</source>
+                <target xml:space="preserve">တၢ်အံၤမ့ၢ် တၢ်ပှ့ၤလၢ တၢ်တသ့ၣ်ညါအီၤဒီး တၢ်ဟ့ၣ်ကဒါက့ၤနၤစ့တသ့ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.already_refunded">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This purchase has already been refunded.</source>
+                <target xml:space="preserve">တၢ်ပှ့ၤအံၤအဂီၢ် တၢ်ဟ့ၣ်ကဒါက့ၤ စ့ဝံၤလံ.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.too_old">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This purchase is older than seven days and cannot be refunded.</source>
+                <target xml:space="preserve">တၢ်ပှ့ၤအံၤ ယံာ်တ့ၢ်လံ အါန့ၢ် နွံသီအဃိ တၢ်ဟ့ၣ်ကဒါက့ၤစ့ တသ့ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.launched">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">This purchase has been launched and cannot be refunded.</source>
+                <target xml:space="preserve">တၢ်ပှ့ၤအံၤ ဘၣ်တၢ်ထုးထီၣ်အီၤ ဝံၤလံအဃိ တၢ်ဟ့ၣ်ကဒါက့ၤစ့ တသ့ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.no_credit_card_transaction">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">There is no credit card transaction associated with this purchase so it cannot be refunded automatically.</source>
+                <target xml:space="preserve">လၢတၢ်ပှ့ၤအံၤအဂီၢ် စ့ကဒွဲခးက့အတၢ်ဆှၢလီၤစ့ အတၢ်ကွဲးနီၣ်ကွဲးဃါတအိၣ်ဘၣ်. လၢတၢ်န့ၣ်အဃိ တၢ်ဟ့ၣ်ကဒါက့ၤစ့ လၢအတၢ်ဒၣ်ဝဲ တသ့ဘၣ်.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.further_assistance">
+            <segment canResegment="no" state="final">
+                <source xml:space="preserve">If you need further assistance, please contact support at {0}.</source>
+                <target xml:space="preserve">နမ့ၢ်လိၣ်ဘၣ်အါထီၣ် တၢ်မၤစၢၤအဃိ, ဝံသးစူၤ ဆဲးကျၢ တၢ်ဆီၣ်ထွဲ ဖဲ {0} တက့ၢ်.</target>
+            </segment>
+        </unit>
+    </file>
+</xliff>

@@ -1,0 +1,1737 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff version="2.0" srcLang="en" trgLang="hi">
+    <file canResegment="no" id="calendar.js">
+        <unit canResegment="no" id="calendar.jan.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Jan</source>
+                <target xml:space="preserve">जन</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.feb.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Feb</source>
+                <target xml:space="preserve">फ़र</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.mar.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Mar</source>
+                <target xml:space="preserve">मार</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.apr.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Apr</source>
+                <target xml:space="preserve">अप्र</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.may.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">May</source>
+                <target xml:space="preserve">मई</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.jun.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Jun</source>
+                <target xml:space="preserve">जून</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.jul.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Jul</source>
+                <target xml:space="preserve">जुल</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.aug.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Aug</source>
+                <target xml:space="preserve">अग</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sep.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sep</source>
+                <target xml:space="preserve">सित</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.oct.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Oct</source>
+                <target xml:space="preserve">अक्ट</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.nov.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Nov</source>
+                <target xml:space="preserve">नवं</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.dec.abbreviated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Dec</source>
+                <target xml:space="preserve">दिस</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.january">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">January</source>
+                <target xml:space="preserve">जनवरी</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.february">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">February</source>
+                <target xml:space="preserve">फ़रवरी</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.march">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">March</source>
+                <target xml:space="preserve">मार्च</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.april">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">April</source>
+                <target xml:space="preserve">अप्रैल</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.may">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">May</source>
+                <target xml:space="preserve">मई</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.june">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">June</source>
+                <target xml:space="preserve">जून</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.july">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">July</source>
+                <target xml:space="preserve">जुलाई</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.august">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">August</source>
+                <target xml:space="preserve">अगस्त</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.september">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">September</source>
+                <target xml:space="preserve">सितंबर</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.october">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">October</source>
+                <target xml:space="preserve">अक्टूबर</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.november">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">November</source>
+                <target xml:space="preserve">नवंबर</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.december">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">December</source>
+                <target xml:space="preserve">दिसंबर</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.su.abbreviated2">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Su</source>
+                <target xml:space="preserve">Su</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.mo.abbreviated2">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Mo</source>
+                <target xml:space="preserve">Mo</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.tu.abbreviated2">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Tu</source>
+                <target xml:space="preserve">Tu</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.we.abbreviated2">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">We</source>
+                <target xml:space="preserve">We</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.th.abbreviated2">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Th</source>
+                <target xml:space="preserve">Th</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.fr.abbreviated2">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Fr</source>
+                <target xml:space="preserve">Fr</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sa.abbreviated2">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sa</source>
+                <target xml:space="preserve">Sa</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sun.abbreviated3">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sun</source>
+                <target xml:space="preserve">Sun</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.mon.abbreviated3">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Mon</source>
+                <target xml:space="preserve">Mon</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.tue.abbreviated3">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Tue</source>
+                <target xml:space="preserve">Tue</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.wed.abbreviated3">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Wed</source>
+                <target xml:space="preserve">Wed</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.thu.abbreviated3">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Thu</source>
+                <target xml:space="preserve">Thu</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.fri.abbreviated3">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Fri</source>
+                <target xml:space="preserve">Fri</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sat.abbreviated3">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sat</source>
+                <target xml:space="preserve">Sat</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.sunday">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sunday</source>
+                <target xml:space="preserve">Sunday</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.monday">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Monday</source>
+                <target xml:space="preserve">Monday</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.tuesday">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Tuesday</source>
+                <target xml:space="preserve">Tuesday</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.wednesday">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Wednesday</source>
+                <target xml:space="preserve">Wednesday</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.thursday">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Thursday</source>
+                <target xml:space="preserve">Thursday</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.friday">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Friday</source>
+                <target xml:space="preserve">Friday</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="calendar.saturday">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Saturday</source>
+                <target xml:space="preserve">Saturday</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="user_scripts.html">
+        <unit canResegment="no" id="user_scripts.profile_delete">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Are you sure you want to delete your profile?</source>
+                <target xml:space="preserve">Are you sure you want to delete your profile?</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="framework.core.util.smartform.SmartFormUtil">
+        <unit canResegment="no" id="SmartFormUtil.no_match">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">There is no match for the value entered</source>
+                <target xml:space="preserve">There is no match for the value entered</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.too_many_matches">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">There are too many matches for the value entered</source>
+                <target xml:space="preserve">There are too many matches for the value entered</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.invalid_phone_number">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is an invalid phone number</source>
+                <target xml:space="preserve">This is an invalid phone number</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.invalid_dollar_amount">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is an invalid dollar amount</source>
+                <target xml:space="preserve">This is an invalid dollar amount</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.required_field">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is a required field</source>
+                <target xml:space="preserve">This is a required field</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.at_least_one_required_field_not_specified">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">At least one required field was not specified</source>
+                <target xml:space="preserve">At least one required field was not specified</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.too_long">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is too long (maximum length {0} characters)</source>
+                <target xml:space="preserve">This is too long (maximum length {0} characters)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.invalid_number">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is an invalid number</source>
+                <target xml:space="preserve">This is an invalid number</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormUtil.invalid_date">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is an invalid date</source>
+                <target xml:space="preserve">This is an invalid date</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="framework.database.util.FieldValidator">
+        <unit canResegment="no" id="FieldValidator.email_address.not_specified">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">E-mail address not specified</source>
+                <target xml:space="preserve">E-mail address not specified</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.leading_whitespace">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">E-mail address contains leading whitespace</source>
+                <target xml:space="preserve">E-mail address contains leading whitespace</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.trailing_whitespace">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">E-mail address contains trailing whitespace</source>
+                <target xml:space="preserve">E-mail address contains trailing whitespace</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.embedded_whitespace">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">E-mail address contains embedded whitespace</source>
+                <target xml:space="preserve">E-mail address contains embedded whitespace</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.no_at_symbol">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">E-mail address does not contain an @ symbol</source>
+                <target xml:space="preserve">E-mail address does not contain an @ symbol</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.too_short">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">E-mail address is too short (minimum length {0} characters)</source>
+                <target xml:space="preserve">E-mail address is too short (minimum length {0} characters)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_no_period">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Domain part of e-mail address does not contain a period</source>
+                <target xml:space="preserve">Domain part of e-mail address does not contain a period</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.user_invalid_characters">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">User part of e-mail address contains invalid characters</source>
+                <target xml:space="preserve">User part of e-mail address contains invalid characters</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.user_ends_with_period">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">User part of e-mail address ends with a period</source>
+                <target xml:space="preserve">User part of e-mail address ends with a period</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_invalid_characters">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Domain part of e-mail address contains invalid characters</source>
+                <target xml:space="preserve">Domain part of e-mail address contains invalid characters</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_starts_with_period">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Domain part of e-mail address starts with a period</source>
+                <target xml:space="preserve">Domain part of e-mail address starts with a period</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_ends_with_period">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Domain part of e-mail address ends with a period</source>
+                <target xml:space="preserve">Domain part of e-mail address ends with a period</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_too_long">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Domain part of e-mail address is longer than 67 characters</source>
+                <target xml:space="preserve">Domain part of e-mail address is longer than 67 characters</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_two_periods_in_a_row">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Domain part of e-mail address contains two periods in a row</source>
+                <target xml:space="preserve">Domain part of e-mail address contains two periods in a row</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_not_valid">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Domain “{0}” is not valid</source>
+                <target xml:space="preserve">Domain “{0}” is not valid</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_invalid_top_level_domain">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Top-level domain (TLD) “{0}” is not valid</source>
+                <target xml:space="preserve">Top-level domain (TLD) “{0}” is not valid</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.domain_invalid_top_level_domain_with_suggestion">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Top-level domain (TLD) “{0}” is not valid (did you mean “{1}”?)</source>
+                <target xml:space="preserve">Top-level domain (TLD) “{0}” is not valid (did you mean “{1}”?)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.invalid">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is an invalid e-mail address</source>
+                <target xml:space="preserve">This is an invalid e-mail address</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.multiple_recipients">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">E-mail address cannot contain multiple recipients</source>
+                <target xml:space="preserve">E-mail address cannot contain multiple recipients</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.email_address.simple_address">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">E-mail address must be a simple email address</source>
+                <target xml:space="preserve">E-mail address must be a simple email address</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.password.too_short">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This password is too short (minimum length {0} characters)</source>
+                <target xml:space="preserve">This password is too short (minimum length {0} characters)</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.password.too_simple">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This password is too simple</source>
+                <target xml:space="preserve">This password is too simple</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.password.invalid">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is an invalid password</source>
+                <target xml:space="preserve">This is an invalid password</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="FieldValidator.URL.invalid">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is an invalid URL</source>
+                <target xml:space="preserve">This is an invalid URL</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="SmartColumnComponent.java">
+        <unit canResegment="no" id="SmartColumnComponent.no_sort">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Return to default sort order</source>
+                <target xml:space="preserve">Return to default sort order</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartColumnComponent.sort_by_asc">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sort by {0} ascending</source>
+                <target xml:space="preserve">Sort by {0} ascending</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartColumnComponent.sort_by_desc">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sort by {0} descending</source>
+                <target xml:space="preserve">Sort by {0} descending</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="SmartFormComponent.java">
+        <unit canResegment="no" id="SmartFormComponent.submit">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Submit</source>
+                <target xml:space="preserve">Submit</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.save">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Save</source>
+                <target xml:space="preserve">Save</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.copy">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Copy</source>
+                <target xml:space="preserve">Copy</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.new">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">New</source>
+                <target xml:space="preserve">New</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.delete">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Delete</source>
+                <target xml:space="preserve">Delete</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.reset">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Reset</source>
+                <target xml:space="preserve">Reset</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.cancel">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Cancel</source>
+                <target xml:space="preserve">Cancel</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.go">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Go</source>
+                <target xml:space="preserve">Go</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.ok">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">OK</source>
+                <target xml:space="preserve">OK</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.previous">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Previous</source>
+                <target xml:space="preserve">Previous</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.next">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Next</source>
+                <target xml:space="preserve">Next</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="SmartFormComponent.close">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Close</source>
+                <target xml:space="preserve">Close</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="ProfileHandler.java">
+        <unit canResegment="no" id="ProfileHandler.username_already_registered">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">That username is already registered.</source>
+                <target xml:space="preserve">That username is already registered.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="ProfileHandler.email_address_already_registered">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">That e-mail address is already registered.</source>
+                <target xml:space="preserve">That e-mail address is already registered.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="ProfileHandler.missing_username_or_email_address">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Missing username or e-mail address.</source>
+                <target xml:space="preserve">Missing username or e-mail address.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="ProfileHandler.required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Required</source>
+                <target xml:space="preserve">Required</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="ProfileHandler.passwords_do_not_match">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Your passwords do not match.</source>
+                <target xml:space="preserve">Your passwords do not match.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="ResetPassword.java">
+        <unit canResegment="no" id="ResetPassword.password_has_been_changed">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Your password has been changed.</source>
+                <target xml:space="preserve">Your password has been changed.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="password_strength.js">
+        <unit canResegment="no" id="password_strength.too_short">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Too short</source>
+                <target xml:space="preserve">Too short</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.weak">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Weak</source>
+                <target xml:space="preserve">Weak</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.fair">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Fair</source>
+                <target xml:space="preserve">Fair</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.good">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Good</source>
+                <target xml:space="preserve">Good</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.strong">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Strong</source>
+                <target xml:space="preserve">Strong</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="password_strength.not_rated">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Not rated</source>
+                <target xml:space="preserve">Not rated</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="login.html">
+        <unit canResegment="no" id="login.title">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sign In</source>
+                <target xml:space="preserve">Sign In</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.welcome">
+            <originalData>
+                <data id="h1_0_start">&lt;h1&gt;</data>
+                <data id="h1_0_end">&lt;/h1&gt;</data>
+                <data id="p_1_start">&lt;p&gt;</data>
+                <data id="p_1_end">&lt;/p&gt;</data>
+                <data id="p_2_start">&lt;p&gt;</data>
+                <data id="p_2_end">&lt;/p&gt;</data>
+                <data id="p_3_start">&lt;p&gt;</data>
+                <data id="p_3_end">&lt;/p&gt;</data>
+                <data id="p_4_start">&lt;p&gt;</data>
+                <data id="p_4_end">&lt;/p&gt;</data>
+                <data id="p_5_start">&lt;p&gt;</data>
+                <data id="p_5_end">&lt;/p&gt;</data>
+                <data id="a_6_start">&lt;a href="mailto:{0}"&gt;</data>
+                <data id="a_6_end">&lt;/a&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve"><pc dataRefStart="h1_0_start" dataRefEnd="h1_0_end" id="h1_0" type="fmt">Welcome to MCB’s Online Training for Peer Specialists</pc>
+<pc dataRefStart="p_1_start" dataRefEnd="p_1_end" id="p_1" type="fmt">These free online training programs explore a variety of topics to help you succeed as a peer and work effectively with those beginning or continuing their recovery journey.</pc>
+<pc dataRefStart="p_2_start" dataRefEnd="p_2_end" id="p_2" type="fmt">Our training programs provide you with the knowledge and skills to better support the persons you serve on their recovery journey. The programs educate and challenge your understanding about opioids and substance use as well as build mindfulness of cultural differences and your ability to navigate those differences.</pc>
+<pc dataRefStart="p_3_start" dataRefEnd="p_3_end" id="p_3" type="fmt">Funding for this training is made possible through a grant from the Minnesota Department of Human Services Behavioral Health Division.</pc>
+<pc dataRefStart="p_4_start" dataRefEnd="p_4_end" id="p_4" type="fmt">Self-register to begin or, if you are a returning learner, sign in to continue your training.</pc>
+<pc dataRefStart="p_5_start" dataRefEnd="p_5_end" id="p_5" type="fmt">For any technical or connection issues, please email <pc dataRefStart="a_6_start" dataRefEnd="a_6_end" id="a_6" type="link">{0}</pc>.</pc></source>
+                <target xml:space="preserve"><pc dataRefStart="h1_0_start" dataRefEnd="h1_0_end" id="h1_0" type="fmt">Welcome to MCB’s Online Training for Peer Specialists</pc>
+<pc dataRefStart="p_1_start" dataRefEnd="p_1_end" id="p_1" type="fmt">These free online training programs explore a variety of topics to help you succeed as a peer and work effectively with those beginning or continuing their recovery journey.</pc>
+<pc dataRefStart="p_2_start" dataRefEnd="p_2_end" id="p_2" type="fmt">Our training programs provide you with the knowledge and skills to better support the persons you serve on their recovery journey. The programs educate and challenge your understanding about opioids and substance use as well as build mindfulness of cultural differences and your ability to navigate those differences.</pc>
+<pc dataRefStart="p_3_start" dataRefEnd="p_3_end" id="p_3" type="fmt">Funding for this training is made possible through a grant from the Minnesota Department of Human Services Behavioral Health Division.</pc>
+<pc dataRefStart="p_4_start" dataRefEnd="p_4_end" id="p_4" type="fmt">Self-register to begin or, if you are a returning learner, sign in to continue your training.</pc>
+<pc dataRefStart="p_5_start" dataRefEnd="p_5_end" id="p_5" type="fmt">For any technical or connection issues, please email <pc dataRefStart="a_6_start" dataRefEnd="a_6_end" id="a_6" type="link">{0}</pc>.</pc></target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.new_registration">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Welcome, and thank you for your purchase! To begin, please watch the video to your left, test your browser, and then sign in using your username and password.</source>
+                <target xml:space="preserve">Welcome, and thank you for your purchase! To begin, please watch the video to your left, test your browser, and then sign in using your username and password.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.signin">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sign In</source>
+                <target xml:space="preserve">Sign In</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.registered_learners_signin">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Registered learners sign in here.</source>
+                <target xml:space="preserve">Registered learners sign in here.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.username">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Username</source>
+                <target xml:space="preserve">Username</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.password">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Password</source>
+                <target xml:space="preserve">Password</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.register">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Register</source>
+                <target xml:space="preserve">Register</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.new_learners_register">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">New learners register here.</source>
+                <target xml:space="preserve">New learners register here.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.language">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Language</source>
+                <target xml:space="preserve">Language</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.first_name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">First Name</source>
+                <target xml:space="preserve">First Name</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.last_name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Last Name</source>
+                <target xml:space="preserve">Last Name</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.email_address">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Email Address</source>
+                <target xml:space="preserve">Email Address</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.password_again">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Type Password Again</source>
+                <target xml:space="preserve">Type Password Again</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.registration_code">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Group</source>
+                <target xml:space="preserve">Group</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login.choose_a_group">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Choose a group</source>
+                <target xml:space="preserve">Choose a group</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="header.html">
+        <unit canResegment="no" id="header.application_name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Minnesota Certification Board</source>
+                <target xml:space="preserve">Minnesota Certification Board</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="header.text">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Online Training for Behavioral Health Professionals</source>
+                <target xml:space="preserve">Online Training for Behavioral Health Professionals</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="footer.html">
+        <unit canResegment="no" id="footer.application_footer">
+            <originalData>
+                <data id="a_0_start">&lt;a href="mailto:{1}" target="_blank"&gt;</data>
+                <data id="a_0_end">&lt;/a&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">&amp;copy; 2009-{0} Kinetic Learning, Inc. All Rights Reserved &amp;middot; <pc dataRefStart="a_0_start" dataRefEnd="a_0_end" id="a_0" type="link">Contact Support</pc> &amp;middot; {2}</source>
+                <target xml:space="preserve">&amp;copy; 2009-{0} Kinetic Learning, Inc. All Rights Reserved &amp;middot;<pc dataRefStart="a_0_start" dataRefEnd="a_0_end" id="a_0" type="link">Contact Support</pc> &amp;middot; {2}</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="learner_group.database">
+        <unit canResegment="no" id="learner_group.1CPRS.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Certified Peer Recovery Specialist</source>
+                <target xml:space="preserve">Certified Peer Recovery Specialist</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.2PRSS.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Peer Recovery Support Specialist</source>
+                <target xml:space="preserve">Peer Recovery Support Specialist</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.3FS.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Family Specialist</source>
+                <target xml:space="preserve">Family Specialist</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.9OP.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Other Professional</source>
+                <target xml:space="preserve">Other Professional</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.1CPRS.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Certified Peer Recovery Specialist</source>
+                <target xml:space="preserve">Certified Peer Recovery Specialist</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.2PRSS.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Peer Recovery Support Specialist</source>
+                <target xml:space="preserve">Peer Recovery Support Specialist</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.3FPS.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Family Specialist</source>
+                <target xml:space="preserve">Family Specialist</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="learner_group.9OP.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Other Professional</source>
+                <target xml:space="preserve">Other Professional</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="status.database">
+        <unit canResegment="no" id="status.browsed.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Browsed</source>
+                <target xml:space="preserve">Browsed</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.completed.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Completed</source>
+                <target xml:space="preserve">Completed</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.failed.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Failed</source>
+                <target xml:space="preserve">Failed</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.incomplete.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">In Progress</source>
+                <target xml:space="preserve">In Progress</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.locked.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Locked</source>
+                <target xml:space="preserve">Locked</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.not_attempted.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">New</source>
+                <target xml:space="preserve">New</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.passed.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Passed</source>
+                <target xml:space="preserve">Passed</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.browsed.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This has been completed: the learner is just browsing</source>
+                <target xml:space="preserve">This has been completed: the learner is just browsing</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.completed.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This has been completed</source>
+                <target xml:space="preserve">This has been completed</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.failed.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This was attempted and has been completed, but without a passing score</source>
+                <target xml:space="preserve">This was attempted and has been completed, but without a passing score</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.incomplete.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is in progress and has not been completed</source>
+                <target xml:space="preserve">This is in progress and has not been completed</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.locked.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This has not been unlocked: please complete all prerequisites first</source>
+                <target xml:space="preserve">This has not been unlocked: please complete all prerequisites first</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.not_attempted.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This has not been launched</source>
+                <target xml:space="preserve">This has not been launched</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="status.passed.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This has been completed with a passing score</source>
+                <target xml:space="preserve">This has been completed with a passing score</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="curriculum.database">
+        <unit canResegment="no" id="curriculum.OTPS.short_name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Opioid Training</source>
+                <target xml:space="preserve">Opioid Training</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.OTPS.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Opioid Training for Peer Specialists</source>
+                <target xml:space="preserve">Opioid Training for Peer Specialists</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.OTPS.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The objective of the course is to provide peer specialists with information about the principals and characteristics of opioid use disorders and approaches to treatment and recovery (e.g., medication assistant treatment) so peers are informed and prepared to support the individuals they serve.</source>
+                <target xml:space="preserve">The objective of the course is to provide peer specialists with information about the principals and characteristics of opioid use disorders and approaches to treatment and recovery (e.g., medication assistant treatment) so peers are informed and prepared to support the individuals they serve.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.NEO.short_name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">New and Emerging Opioids</source>
+                <target xml:space="preserve">New and Emerging Opioids</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.NEO.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">New and Emerging Opioids</source>
+                <target xml:space="preserve">New and Emerging Opioids</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.NEO.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">A timely update to the opioid crisis, which has evolved from opioid over-prescription to one of growing illegal access everywhere.</source>
+                <target xml:space="preserve">A timely update to the opioid crisis, which has evolved from opioid over-prescription to one of growing illegal access everywhere.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.ICAPS.short_name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Introduction to Culturally Affirming Peer Support</source>
+                <target xml:space="preserve">Introduction to Culturally Affirming Peer Support</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.ICAPS.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Introduction to Culturally Affirming Peer Support</source>
+                <target xml:space="preserve">Introduction to Culturally Affirming Peer Support</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="curriculum.ICAPS.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The course provides peer specialists and others with a professional interest in substance use disorder recovery, insight into six of Minnesota’s diverse cultures, and learning experiences in cultural responsiveness. The course explores cultural differences and encourages peer specialists to be mindful of such differences and how they impact their relationship with the persons they serve. Participants work through real-world interactive exercises that help build skills for engaging and productive relationships with persons from diverse cultures.</source>
+                <target xml:space="preserve">The course provides peer specialists and others with a professional interest in substance use disorder recovery, insight into six of Minnesota’s diverse cultures, and learning experiences in cultural responsiveness. The course explores cultural differences and encourages peer specialists to be mindful of such differences and how they impact their relationship with the persons they serve. Participants work through real-world interactive exercises that help build skills for engaging and productive relationships with persons from diverse cultures.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="course.database">
+        <unit canResegment="no" id="course.OTPS-L1.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson One: History and Overview of the Opioid Epidemic</source>
+                <target xml:space="preserve">Lesson One: History and Overview of the Opioid Epidemic</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L2.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson Two: Opioids 101 — A Brief Overview of the Types and Effects of Opioids</source>
+                <target xml:space="preserve">Lesson Two: Opioids 101 — A Brief Overview of the Types and Effects of Opioids</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L3.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson Three: Opioid Use Disorder Treatment and Recovery</source>
+                <target xml:space="preserve">Lesson Three: Opioid Use Disorder Treatment and Recovery</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L4-CERT.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Opioid Training for Peer Specialists Completion Certificate</source>
+                <target xml:space="preserve">Opioid Training for Peer Specialists Completion Certificate</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.NEO-L1.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">New and Emerging Opioids: A Supplement to Opioid Training for Peer Specialists</source>
+                <target xml:space="preserve">New and Emerging Opioids: A Supplement to Opioid Training for Peer Specialists</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.NEO-L2-CERT.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">New and Emerging Opioids Completion Certificate</source>
+                <target xml:space="preserve">New and Emerging Opioids Completion Certificate</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L1.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson One: Minnesota’s Mosaic of Cultures</source>
+                <target xml:space="preserve">Lesson One: Minnesota’s Mosaic of Cultures</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L2.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson Two: The Principles of Cultural Affirmation</source>
+                <target xml:space="preserve">Lesson Two: The Principles of Cultural Affirmation</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L3.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson Three: Putting Cultural Responsiveness into Action</source>
+                <target xml:space="preserve">Lesson Three: Putting Cultural Responsiveness into Action</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L4-CERT.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Culturally Affirming Peer Support Completion Certificate</source>
+                <target xml:space="preserve">Culturally Affirming Peer Support Completion Certificate</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L1.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">In this lesson, you’ll learn appropriate terminology in describing substance use disorders such as Opioid Use Disorder (OUD), the incidence rates of national substance use and use disorders, the history of opioid use, the current state of opioid use nationally and in Minnesota, and how to use this knowledge to bring an informed approach to interactions with persons you serve.</source>
+                <target xml:space="preserve">In this lesson, you’ll learn appropriate terminology in describing substance use disorders such as Opioid Use Disorder (OUD), the incidence rates of national substance use and use disorders, the history of opioid use, the current state of opioid use nationally and in Minnesota, and how to use this knowledge to bring an informed approach to interactions with persons you serve.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L2.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">In this lesson, you’ll learn to identify and describe the types of opioids and their derivation, describe how opioids affect the brain and body, describe the physical process through which opioids create dependence, and consider how to apply this information when you provide support to an individual with an Opioid Use Disorder (OUD).</source>
+                <target xml:space="preserve">In this lesson, you’ll learn to identify and describe the types of opioids and their derivation, describe how opioids affect the brain and body, describe the physical process through which opioids create dependence, and consider how to apply this information when you provide support to an individual with an Opioid Use Disorder (OUD).</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L3.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">In this lesson, you’ll learn to describe a peer’s role in treatment and recovery based on the peer recovery domains, identify maintenance and overdose reversal medications, identify non-medication options used in treatment and recovery, and learn about — and practice — person-centered conversational and motivational interviewing techniques when providing support to persons you serve.</source>
+                <target xml:space="preserve">In this lesson, you’ll learn to describe a peer’s role in treatment and recovery based on the peer recovery domains, identify maintenance and overdose reversal medications, identify non-medication options used in treatment and recovery, and learn about — and practice — person-centered conversational and motivational interviewing techniques when providing support to persons you serve.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.OTPS-L4-CERT.description">
+            <originalData>
+                <data id="b_0_start">&lt;b&gt;</data>
+                <data id="b_0_end">&lt;/b&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">To view and print your certificate press the <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</source>
+                <target xml:space="preserve">To view and print your certificate press the<pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.NEO-L1.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The course examines the evolving opioid crisis with an emphasis on illegal opioids, synthetic opioid-like substances, and stimulants that are becoming increasingly available everywhere in Minnesota. The course familiarizes peer specialists and others with a professional interest in substance use and recovery with the nature of the new drugs and the risks and dangers posed by each.</source>
+                <target xml:space="preserve">The course examines the evolving opioid crisis with an emphasis on illegal opioids, synthetic opioid-like substances, and stimulants that are becoming increasingly available everywhere in Minnesota. The course familiarizes peer specialists and others with a professional interest in substance use and recovery with the nature of the new drugs and the risks and dangers posed by each.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.NEO-L2-CERT.description">
+            <originalData>
+                <data id="b_0_start">&lt;b&gt;</data>
+                <data id="b_0_end">&lt;/b&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">To view and print your certificate press the <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</source>
+                <target xml:space="preserve">To view and print your certificate press the<pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L1.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson One identifies Minnesota’s wide range of diverse cultures and surveys six prominent cultures, emphasizing language, customs, values, and traditions as key distinguishing characteristics of each. Participants acquire knowledge and skills for navigating cultural differences among those they serve, building cultural responsiveness and competence to help strengthen those relationships.</source>
+                <target xml:space="preserve">Lesson One identifies Minnesota’s wide range of diverse cultures and surveys six prominent cultures, emphasizing language, customs, values, and traditions as key distinguishing characteristics of each. Participants acquire knowledge and skills for navigating cultural differences among those they serve, building cultural responsiveness and competence to help strengthen those relationships.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L2.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson Two focuses on cultural awareness and introduces key principles for initiating and maintaining productive interactions and relationships with persons from diverse cultures. The lesson explores cultural differences and their impact on communication. It emphasizes skills to overcome barriers and provide culturally affirming support.</source>
+                <target xml:space="preserve">Lesson Two focuses on cultural awareness and introduces key principles for initiating and maintaining productive interactions and relationships with persons from diverse cultures. The lesson explores cultural differences and their impact on communication. It emphasizes skills to overcome barriers and provide culturally affirming support.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L3.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Lesson Three transitions from learning to doing by practicing concepts learned in previous lessons. Participants are challenged to identify and successfully bridge cultural differences by engaging in several interactive scenarios. This learn-by-doing approach enables participants to develop and grow their ability to navigate relationships with people from different cultures by establishing rapport, adjusting communication styles, and avoiding and repairing microaggressions.</source>
+                <target xml:space="preserve">Lesson Three transitions from learning to doing by practicing concepts learned in previous lessons. Participants are challenged to identify and successfully bridge cultural differences by engaging in several interactive scenarios. This learn-by-doing approach enables participants to develop and grow their ability to navigate relationships with people from different cultures by establishing rapport, adjusting communication styles, and avoiding and repairing microaggressions.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="course.ICAPS-L4-CERT.description">
+            <originalData>
+                <data id="b_0_start">&lt;b&gt;</data>
+                <data id="b_0_end">&lt;/b&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">To view and print your certificate press the <pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</source>
+                <target xml:space="preserve">To view and print your certificate press the<pc dataRefStart="b_0_start" dataRefEnd="b_0_end" id="b_0" subType="xlf:b" type="fmt">Launch</pc> button.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="login_errors.html">
+        <unit canResegment="no" id="login_errors.title">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Oops! We found a problem!</source>
+                <target xml:space="preserve">Oops! We found a problem!</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.invalid">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Some of the information you provided does not match our records. Please re-enter your username and password. Then click Sign In.</source>
+                <target xml:space="preserve">Some of the information you provided does not match our records. Please re-enter your username and password. Then click Sign In.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.blank">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Some of the information you provided does not match our records. Please re-enter your username and password. Then click Sign In.</source>
+                <target xml:space="preserve">Some of the information you provided does not match our records. Please re-enter your username and password. Then click Sign In.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.inactive">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Your account is inactive.</source>
+                <target xml:space="preserve">Your account is inactive.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.fatal">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The system is unavailable.</source>
+                <target xml:space="preserve">The system is unavailable.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="login_errors.session_expired">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Your session has expired.</source>
+                <target xml:space="preserve">Your session has expired.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="registration_errors.html">
+        <unit canResegment="no" id="registration_errors.title">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Oops! We found a problem!</source>
+                <target xml:space="preserve">Oops! We found a problem!</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Some required fields are missing.</source>
+                <target xml:space="preserve">Some required fields are missing.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.fatal">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The system is unavailable.</source>
+                <target xml:space="preserve">The system is unavailable.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.first_name_required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The first name field is required.</source>
+                <target xml:space="preserve">The first name field is required.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.last_name_required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The last name field is required.</source>
+                <target xml:space="preserve">The last name field is required.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.email_address_required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The email address field is required.</source>
+                <target xml:space="preserve">The email address field is required.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.email_address_exists">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">That email address is already registered.</source>
+                <target xml:space="preserve">That email address is already registered.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.username_required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The username field is required.</source>
+                <target xml:space="preserve">The username field is required.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.username_exists">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">That username is already registered.</source>
+                <target xml:space="preserve">That username is already registered.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.password_required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The password field is required.</source>
+                <target xml:space="preserve">The password field is required.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.password_match">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The passwords do not match.</source>
+                <target xml:space="preserve">The passwords do not match.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.password_again_required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The password again field is required.</source>
+                <target xml:space="preserve">The password again field is required.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.password_again_match">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The passwords do not match.</source>
+                <target xml:space="preserve">The passwords do not match.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.registration_code_required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The group field is required.</source>
+                <target xml:space="preserve">The group field is required.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.registration_code_invalid">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">That registration code is invalid.</source>
+                <target xml:space="preserve">That registration code is invalid.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.registration_code_full">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">There are no more seats available using that registration code.</source>
+                <target xml:space="preserve">There are no more seats available using that registration code.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="registration_errors.captcha_required">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">The captcha is required.</source>
+                <target xml:space="preserve">The captcha is required.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="menu.html">
+        <unit canResegment="no" id="menu.home">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Home</source>
+                <target xml:space="preserve">Home</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="menu.language">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Language</source>
+                <target xml:space="preserve">Language</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="menu.profile">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Profile</source>
+                <target xml:space="preserve">Profile</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="menu.help">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Help</source>
+                <target xml:space="preserve">Help</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="menu.signout">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Sign Out</source>
+                <target xml:space="preserve">Sign Out</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="home.html">
+        <unit canResegment="no" id="home.title">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Home Page</source>
+                <target xml:space="preserve">Home Page</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.welcome">
+            <originalData>
+                <data id="h2_0_start">&lt;h2&gt;</data>
+                <data id="h2_0_end">&lt;/h2&gt;</data>
+                <data id="p_1_start">&lt;p&gt;</data>
+                <data id="p_1_end">&lt;/p&gt;</data>
+                <data id="p_2_start">&lt;p&gt;</data>
+                <data id="p_2_end">&lt;/p&gt;</data>
+                <data id="p_3_start">&lt;p&gt;</data>
+                <data id="p_3_end">&lt;/p&gt;</data>
+                <data id="button_4_start">&lt;button&gt;</data>
+                <data id="button_4_end">&lt;/button&gt;</data>
+                <data id="p_5_start">&lt;p&gt;</data>
+                <data id="p_5_end">&lt;/p&gt;</data>
+                <data id="p_6_start">&lt;p&gt;</data>
+                <data id="p_6_end">&lt;/p&gt;</data>
+                <data id="a_7_start">&lt;a href="https://www.mcboard.org/"&gt;</data>
+                <data id="a_7_end">&lt;/a&gt;</data>
+                <data id="p_8_start">&lt;p&gt;</data>
+                <data id="p_8_end">&lt;/p&gt;</data>
+                <data id="p_9_start">&lt;p style="color: black; background-color: #fdf5f1; border: 3px solid #d96016; padding: 0.5em;"&gt;</data>
+                <data id="p_9_end">&lt;/p&gt;</data>
+                <data id="strong_10_start">&lt;strong&gt;</data>
+                <data id="strong_10_end">&lt;/strong&gt;</data>
+                <data id="em_11_start">&lt;em&gt;</data>
+                <data id="em_11_end">&lt;/em&gt;</data>
+                <data id="br_12">&lt;br&gt;</data>
+                <data id="strong_13_start">&lt;strong&gt;</data>
+                <data id="strong_13_end">&lt;/strong&gt;</data>
+                <data id="hr_14">&lt;hr&gt;</data>
+                <data id="p_15_start">&lt;p&gt;</data>
+                <data id="p_15_end">&lt;/p&gt;</data>
+                <data id="a_16_start">&lt;a href="mailto:{1}"&gt;</data>
+                <data id="a_16_end">&lt;/a&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve"><pc dataRefStart="h2_0_start" dataRefEnd="h2_0_end" id="h2_0" type="fmt">Hi, {0}, and welcome to MCB’s Online Training for Peer Specialists!</pc>
+<pc dataRefStart="p_1_start" dataRefEnd="p_1_end" id="p_1" type="fmt">You are on your personal home page.</pc>
+<pc dataRefStart="p_2_start" dataRefEnd="p_2_end" id="p_2" type="fmt">On the right, you’ll see the course list. Click on a course title to reveal the course description and a summary of each lesson. As you work your way through the course, your status will be updated to reflect your progress.</pc>
+<pc dataRefStart="p_3_start" dataRefEnd="p_3_end" id="p_3" type="fmt">Click the <pc dataRefStart="button_4_start" dataRefEnd="button_4_end" id="button_4" type="fmt">Launch</pc> button to the right of the available lesson to begin. The lessons must be taken in the order presented. When you complete a lesson, the next lesson will unlock.</pc>
+<pc dataRefStart="p_5_start" dataRefEnd="p_5_end" id="p_5" type="fmt">You do not have to complete a lesson in one session. If you EXIT before completing a lesson, we’ll remember where you left off and bring you back to the right point when you return.</pc>
+<pc dataRefStart="p_6_start" dataRefEnd="p_6_end" id="p_6" type="fmt">For your convenience, bookmark this page. Alternatively, sign in at <pc dataRefStart="a_7_start" dataRefEnd="a_7_end" id="a_7" type="link">www.mcboard.org</pc>.</pc>
+<pc dataRefStart="p_8_start" dataRefEnd="p_8_end" id="p_8" type="fmt">Thank you for participating in this online training program. Thank you, too, for your commitment to helping others in their recovery journey.</pc>
+<pc dataRefStart="p_9_start" dataRefEnd="p_9_end" id="p_9" type="fmt"><pc dataRefStart="strong_10_start" dataRefEnd="strong_10_end" id="strong_10" subType="xlf:b" type="fmt">NOTE:</pc> These courses are <pc dataRefStart="em_11_start" dataRefEnd="em_11_end" id="em_11" subType="xlf:i" type="fmt">not</pc> designed to be viewed on a Smartphone.<ph dataRef="br_12" id="br_12" type="fmt" />
+<pc dataRefStart="strong_13_start" dataRefEnd="strong_13_end" id="strong_13" subType="xlf:b" type="fmt">Please use a tablet, laptop or desktop computer.</pc></pc>
+<ph dataRef="hr_14" id="hr_14" type="fmt" />
+<pc dataRefStart="p_15_start" dataRefEnd="p_15_end" id="p_15" type="fmt">For any technical or connection issues, please email us at <pc dataRefStart="a_16_start" dataRefEnd="a_16_end" id="a_16" type="link">{1}</pc>.</pc></source>
+                <target xml:space="preserve"><pc dataRefStart="h2_0_start" dataRefEnd="h2_0_end" id="h2_0" type="fmt">Hi, {0}, and welcome to MCB’s Online Training for Peer Specialists!</pc>
+<pc dataRefStart="p_1_start" dataRefEnd="p_1_end" id="p_1" type="fmt">You are on your personal home page.</pc>
+<pc dataRefStart="p_2_start" dataRefEnd="p_2_end" id="p_2" type="fmt">On the right, you’ll see the course list. Click on a course title to reveal the course description and a summary of each lesson. As you work your way through the course, your status will be updated to reflect your progress.</pc>
+<pc dataRefStart="p_3_start" dataRefEnd="p_3_end" id="p_3" type="fmt">Click the <pc dataRefStart="button_4_start" dataRefEnd="button_4_end" id="button_4" type="fmt">Launch</pc> button to the right of the available lesson to begin. The lessons must be taken in the order presented. When you complete a lesson, the next lesson will unlock.</pc>
+<pc dataRefStart="p_5_start" dataRefEnd="p_5_end" id="p_5" type="fmt">You do not have to complete a lesson in one session. If you EXIT before completing a lesson, we’ll remember where you left off and bring you back to the right point when you return.</pc>
+<pc dataRefStart="p_6_start" dataRefEnd="p_6_end" id="p_6" type="fmt">For your convenience, bookmark this page. Alternatively, sign in at <pc dataRefStart="a_7_start" dataRefEnd="a_7_end" id="a_7" type="link">www.mcboard.org</pc>.</pc>
+<pc dataRefStart="p_8_start" dataRefEnd="p_8_end" id="p_8" type="fmt">Thank you for participating in this online training program. Thank you, too, for your commitment to helping others in their recovery journey.</pc>
+<pc dataRefStart="p_9_start" dataRefEnd="p_9_end" id="p_9" type="fmt"><pc dataRefStart="strong_10_start" dataRefEnd="strong_10_end" id="strong_10" subType="xlf:b" type="fmt">NOTE:</pc> These courses are <pc dataRefStart="em_11_start" dataRefEnd="em_11_end" id="em_11" subType="xlf:i" type="fmt">not</pc> designed to be viewed on a Smartphone.<ph dataRef="br_12" id="br_12" type="fmt" />
+<pc dataRefStart="strong_13_start" dataRefEnd="strong_13_end" id="strong_13" subType="xlf:b" type="fmt">Please use a tablet, laptop or desktop computer.</pc></pc>
+<ph dataRef="hr_14" id="hr_14" type="fmt" />
+<pc dataRefStart="p_15_start" dataRefEnd="p_15_end" id="p_15" type="fmt">For any technical or connection issues, please email us at <pc dataRefStart="a_16_start" dataRefEnd="a_16_end" id="a_16" type="link">{1}</pc>.</pc></target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_title">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Title</source>
+                <target xml:space="preserve">Title</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_action">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Action</source>
+                <target xml:space="preserve">Action</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_status">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Status</source>
+                <target xml:space="preserve">Status</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_assigned">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Assigned</source>
+                <target xml:space="preserve">Assigned</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.assignment_completed">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Completed</source>
+                <target xml:space="preserve">Completed</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.launch_button">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Launch</source>
+                <target xml:space="preserve">Launch</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.continue_button">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Continue</source>
+                <target xml:space="preserve">Continue</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.certificate_button">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Certificate</source>
+                <target xml:space="preserve">Certificate</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.view_button">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">View</source>
+                <target xml:space="preserve">View</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.review_button">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Review</source>
+                <target xml:space="preserve">Review</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.optional_courses.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Optional Courses</source>
+                <target xml:space="preserve">Optional Courses</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="home.optional_courses.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">These courses are optional and were made available to you outside of a curriculum.</source>
+                <target xml:space="preserve">These courses are optional and were made available to you outside of a curriculum.</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="profile.html">
+        <unit canResegment="no" id="profile.title">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Profile</source>
+                <target xml:space="preserve">Profile</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.language">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Language</source>
+                <target xml:space="preserve">Language</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.email_address">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Email Address</source>
+                <target xml:space="preserve">Email Address</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Name</source>
+                <target xml:space="preserve">Name</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.username">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Username</source>
+                <target xml:space="preserve">Username</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="profile.password">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Password</source>
+                <target xml:space="preserve">Password</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="help.html">
+        <unit canResegment="no" id="help.title">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Help</source>
+                <target xml:space="preserve">Help</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="help.content">
+            <originalData>
+                <data id="p_0_start">&lt;p&gt;</data>
+                <data id="p_0_end">&lt;/p&gt;</data>
+                <data id="a_1_start">&lt;a href="mailto:{0}"&gt;</data>
+                <data id="a_1_end">&lt;/a&gt;</data>
+                <data id="h2_2_start">&lt;h2&gt;</data>
+                <data id="h2_2_end">&lt;/h2&gt;</data>
+                <data id="ul_3_start">&lt;ul&gt;</data>
+                <data id="ul_3_end">&lt;/ul&gt;</data>
+                <data id="li_4_start">&lt;li&gt;</data>
+                <data id="li_4_end">&lt;/li&gt;</data>
+                <data id="em_5_start">&lt;em&gt;</data>
+                <data id="em_5_end">&lt;/em&gt;</data>
+                <data id="li_6_start">&lt;li&gt;</data>
+                <data id="li_6_end">&lt;/li&gt;</data>
+                <data id="li_7_start">&lt;li&gt;</data>
+                <data id="li_7_end">&lt;/li&gt;</data>
+                <data id="li_8_start">&lt;li&gt;</data>
+                <data id="li_8_end">&lt;/li&gt;</data>
+                <data id="li_9_start">&lt;li&gt;</data>
+                <data id="li_9_end">&lt;/li&gt;</data>
+                <data id="h2_10_start">&lt;h2&gt;</data>
+                <data id="h2_10_end">&lt;/h2&gt;</data>
+                <data id="ul_11_start">&lt;ul&gt;</data>
+                <data id="ul_11_end">&lt;/ul&gt;</data>
+                <data id="li_12_start">&lt;li&gt;</data>
+                <data id="li_12_end">&lt;/li&gt;</data>
+                <data id="li_13_start">&lt;li&gt;</data>
+                <data id="li_13_end">&lt;/li&gt;</data>
+                <data id="li_14_start">&lt;li&gt;</data>
+                <data id="li_14_end">&lt;/li&gt;</data>
+                <data id="li_15_start">&lt;li&gt;</data>
+                <data id="li_15_end">&lt;/li&gt;</data>
+            </originalData>
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve"><pc dataRefStart="p_0_start" dataRefEnd="p_0_end" id="p_0" type="fmt">For any technical or connection issues, please email us at <pc dataRefStart="a_1_start" dataRefEnd="a_1_end" id="a_1" type="link">{0}</pc>.</pc>
+<pc dataRefStart="h2_2_start" dataRefEnd="h2_2_end" id="h2_2" type="fmt">Good to know</pc>
+<pc dataRefStart="ul_3_start" dataRefEnd="ul_3_end" id="ul_3" type="fmt">
+<pc dataRefStart="li_4_start" dataRefEnd="li_4_end" id="li_4" type="fmt">This course is best viewed on a desktop or laptop computer, or on newer iPad or Android tablets. <pc dataRefStart="em_5_start" dataRefEnd="em_5_end" id="em_5" subType="xlf:i" type="fmt">It is not designed to be viewed on a smartphone.</pc></pc>
+<pc dataRefStart="li_6_start" dataRefEnd="li_6_end" id="li_6" type="fmt">If you are taking the course in a corporate setting be sure that your organization allows access to external websites.</pc>
+<pc dataRefStart="li_7_start" dataRefEnd="li_7_end" id="li_7" type="fmt">You do not have to complete the course in one session. We encourage you to press NEXT before exiting. Failing to do so will require you to view again the last viewed slide before moving forward.</pc>
+<pc dataRefStart="li_8_start" dataRefEnd="li_8_end" id="li_8" type="fmt">This self-directed course has been designed to be completed in three hours. Your time to complete may vary.</pc>
+<pc dataRefStart="li_9_start" dataRefEnd="li_9_end" id="li_9" type="fmt">Upon completion of the course you will receive a personalized Completion Certificate.</pc>
+</pc>
+<pc dataRefStart="h2_10_start" dataRefEnd="h2_10_end" id="h2_10" type="fmt">Browser and device support</pc>
+<pc dataRefStart="ul_11_start" dataRefEnd="ul_11_end" id="ul_11" type="fmt">
+<pc dataRefStart="li_12_start" dataRefEnd="li_12_end" id="li_12" type="fmt">Windows: Chrome, Edge, Firefox (latest versions), and IE11.</pc>
+<pc dataRefStart="li_13_start" dataRefEnd="li_13_end" id="li_13" type="fmt">Mac: Safari and Firefox (latest versions).</pc>
+<pc dataRefStart="li_14_start" dataRefEnd="li_14_end" id="li_14" type="fmt">Apple iOS tablets: Safari and Google Chrome (latest versions).</pc>
+<pc dataRefStart="li_15_start" dataRefEnd="li_15_end" id="li_15" type="fmt">Android OS6 or later: Google Chrome (latest version).</pc>
+</pc></source>
+                <target xml:space="preserve"><pc dataRefStart="p_0_start" dataRefEnd="p_0_end" id="p_0" type="fmt">For any technical or connection issues, please email us at <pc dataRefStart="a_1_start" dataRefEnd="a_1_end" id="a_1" type="link">{0}</pc>.</pc>
+<pc dataRefStart="h2_2_start" dataRefEnd="h2_2_end" id="h2_2" type="fmt">Good to know</pc>
+<pc dataRefStart="ul_3_start" dataRefEnd="ul_3_end" id="ul_3" type="fmt">
+<pc dataRefStart="li_4_start" dataRefEnd="li_4_end" id="li_4" type="fmt">This course is best viewed on a desktop or laptop computer, or on newer iPad or Android tablets. <pc dataRefStart="em_5_start" dataRefEnd="em_5_end" id="em_5" subType="xlf:i" type="fmt">It is not designed to be viewed on a smartphone.</pc></pc>
+<pc dataRefStart="li_6_start" dataRefEnd="li_6_end" id="li_6" type="fmt">If you are taking the course in a corporate setting be sure that your organization allows access to external websites.</pc>
+<pc dataRefStart="li_7_start" dataRefEnd="li_7_end" id="li_7" type="fmt">You do not have to complete the course in one session. We encourage you to press NEXT before exiting. Failing to do so will require you to view again the last viewed slide before moving forward.</pc>
+<pc dataRefStart="li_8_start" dataRefEnd="li_8_end" id="li_8" type="fmt">This self-directed course has been designed to be completed in three hours. Your time to complete may vary.</pc>
+<pc dataRefStart="li_9_start" dataRefEnd="li_9_end" id="li_9" type="fmt">Upon completion of the course you will receive a personalized Completion Certificate.</pc>
+</pc>
+<pc dataRefStart="h2_10_start" dataRefEnd="h2_10_end" id="h2_10" type="fmt">Browser and device support</pc>
+<pc dataRefStart="ul_11_start" dataRefEnd="ul_11_end" id="ul_11" type="fmt">
+<pc dataRefStart="li_12_start" dataRefEnd="li_12_end" id="li_12" type="fmt">Windows: Chrome, Edge, Firefox (latest versions), and IE11.</pc>
+<pc dataRefStart="li_13_start" dataRefEnd="li_13_end" id="li_13" type="fmt">Mac: Safari and Firefox (latest versions).</pc>
+<pc dataRefStart="li_14_start" dataRefEnd="li_14_end" id="li_14" type="fmt">Apple iOS tablets: Safari and Google Chrome (latest versions).</pc>
+<pc dataRefStart="li_15_start" dataRefEnd="li_15_end" id="li_15" type="fmt">Android OS6 or later: Google Chrome (latest version).</pc>
+</pc></target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="language.database">
+        <unit canResegment="no" id="language.am.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Amharic</source>
+                <target xml:space="preserve">Amharic</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.en.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">English</source>
+                <target xml:space="preserve">English</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.es.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Spanish</source>
+                <target xml:space="preserve">Spanish</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.hi.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Hindi</source>
+                <target xml:space="preserve">Hindi</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.hmn.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Hmong</source>
+                <target xml:space="preserve">Hmong</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.ksw-Mymr.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">S’gaw Karen</source>
+                <target xml:space="preserve">S’gaw Karen</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.so.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Somali</source>
+                <target xml:space="preserve">Somali</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.zh.name">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Chinese</source>
+                <target xml:space="preserve">Chinese</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.am.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Amharic</source>
+                <target xml:space="preserve">Amharic</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.en.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">English</source>
+                <target xml:space="preserve">English</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.es.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Spanish</source>
+                <target xml:space="preserve">Spanish</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.hi.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Hindi</source>
+                <target xml:space="preserve">Hindi</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.hmn.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Hmong</source>
+                <target xml:space="preserve">Hmong</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.ksw-Mymr.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">S’gaw Karen Myanmar script</source>
+                <target xml:space="preserve">S’gaw Karen Myanmar script</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.so.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Somali</source>
+                <target xml:space="preserve">Somali</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.zh.description">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Chinese</source>
+                <target xml:space="preserve">Chinese</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="language.html">
+        <unit canResegment="no" id="language.title">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Language</source>
+                <target xml:space="preserve">Language</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.content">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Our training programs are available in multiple languages. Choose your preferred language by pressing a button below.</source>
+                <target xml:space="preserve">Our training programs are available in multiple languages. Choose your preferred language by pressing a button below.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.clear">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Clear all language settings</source>
+                <target xml:space="preserve">Clear all language settings</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="language.clear_button">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Clear</source>
+                <target xml:space="preserve">Clear</target>
+            </segment>
+        </unit>
+    </file>
+    <file canResegment="no" id="CurriculumPurchaseRefundTool.java">
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.refund.are_you_sure">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">Are you sure you wish to refund this purchase? You will no longer be able to access this curriculum.</source>
+                <target xml:space="preserve">Are you sure you wish to refund this purchase? You will no longer be able to access this curriculum.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.not_specified">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">There was no purchase specified.</source>
+                <target xml:space="preserve">There was no purchase specified.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.unknown">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This is an unknown purchase and cannot be refunded.</source>
+                <target xml:space="preserve">This is an unknown purchase and cannot be refunded.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.already_refunded">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This purchase has already been refunded.</source>
+                <target xml:space="preserve">This purchase has already been refunded.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.too_old">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This purchase is older than seven days and cannot be refunded.</source>
+                <target xml:space="preserve">This purchase is older than seven days and cannot be refunded.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.launched">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">This purchase has been launched and cannot be refunded.</source>
+                <target xml:space="preserve">This purchase has been launched and cannot be refunded.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.no_credit_card_transaction">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">There is no credit card transaction associated with this purchase so it cannot be refunded automatically.</source>
+                <target xml:space="preserve">There is no credit card transaction associated with this purchase so it cannot be refunded automatically.</target>
+            </segment>
+        </unit>
+        <unit canResegment="no" id="CurriculumPurchaseRefundTool.purchase.further_assistance">
+            <segment canResegment="no" state="translated">
+                <source xml:space="preserve">If you need further assistance, please contact support at {0}.</source>
+                <target xml:space="preserve">If you need further assistance, please contact support at {0}.</target>
+            </segment>
+        </unit>
+    </file>
+</xliff>
