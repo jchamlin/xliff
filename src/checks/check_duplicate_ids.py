@@ -1,7 +1,9 @@
 from lxml import etree
-from utils import ValidationIssue
-from utils import xliff_check
 
+from utils import ValidationIssue, xliff_check
+
+
+# pylint: disable=too-many-locals,too-many-branches,too-many-nested-blocks
 @xliff_check(7)
 def check_duplicate_ids(filename, lines):
     """
@@ -46,7 +48,7 @@ def check_duplicate_ids(filename, lines):
                             column_start=1,
                             column_end=1,
                             unit_id=unit_id,
-                            rule="check_duplicate_ids"
+                            text="check_duplicate_ids"
                         ))
                     else:
                         data_ids[data_id] = data
@@ -71,7 +73,7 @@ def check_duplicate_ids(filename, lines):
                                 column_start=1,
                                 column_end=1,
                                 unit_id=unit_id,
-                                rule="check_duplicate_ids"
+                                text="check_duplicate_ids"
                             ))
 
             for ref_id in referenced_data_ids:
@@ -84,12 +86,11 @@ def check_duplicate_ids(filename, lines):
                         column_start=1,
                         column_end=1,
                         unit_id=unit_id,
-                        rule="check_duplicate_ids"
+                        text="check_duplicate_ids"
                     ))
 
-            for data_id in data_ids:
+            for data_id, data in data_ids.items():
                 if data_id not in referenced_data_ids:
-                    data = data_ids[data_id]
                     issues.append(ValidationIssue(
                         validator="Unused Data ID",
                         message=f"<data> ID not referenced in unit '{unit_id}': '{data_id}'",
@@ -98,7 +99,7 @@ def check_duplicate_ids(filename, lines):
                         column_start=1,
                         column_end=1,
                         unit_id=unit_id,
-                        rule="check_duplicate_ids"
+                        text="check_duplicate_ids"
                     ))
 
     return issues

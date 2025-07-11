@@ -3,6 +3,8 @@
 	<name>xliff</name>
 	<comment></comment>
 	<projects>
+		<project>python_3.11.9</project>
+		<project>utils</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

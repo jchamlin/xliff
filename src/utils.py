@@ -1,10 +1,11 @@
 import os
 import re
 
+
 class Config:
     # Private variable to hold the test files path
     _TEST_FILES_PATH = "/mnt/data/test-files/" if os.path.exists("/mnt/data/") else "../test-files/"
-    
+
     @classmethod
     @property
     def TEST_FILES_PATH(cls):
@@ -14,7 +15,9 @@ class Config:
         """
         return cls._TEST_FILES_PATH
 
+
 class ValidationIssue:
+
     def __init__(self, validator, message, filename, line, column_start, column_end, unit_id, text):
         self.validator = validator
         self.message = message
@@ -58,11 +61,11 @@ class ValidationIssue:
             "| Validator        | Message                                      | File                          | Line #| Column #s| Unit ID     | Problem Text               |\n"
             "|------------------|----------------------------------------------|-------------------------------|-------|----------|-------------|----------------------------|"
         )
-    
+
     @classmethod
     def table_footer(cls):
         return "-" * 161 + "\n"
-    
+
     def format_as_table_row(self):
         return (
             f"| {self.validator:<16.16} | "
@@ -74,7 +77,8 @@ class ValidationIssue:
             f"{self.text:<26.26} |"
         )
 
-def xliff_check(number: int, pair: bool = False):
+
+def xliff_check(number: int, pair: bool=False):
     """
     Decorator for XLIFF validator check functions.
 
@@ -96,12 +100,15 @@ def xliff_check(number: int, pair: bool = False):
         @xliff_check(15, pair=True)
         def check_tag_consistency(src_file, src_lines, tgt_file, tgt_lines):
             ...
-    """    
+    """
+
     def decorator(func):
         func._check_number = number
         func._check_pair = pair
         return func
+
     return decorator
+
 
 def read_file_lines(filepath):
     """
@@ -118,6 +125,7 @@ def read_file_lines(filepath):
     """
     with open(filepath, encoding="utf-8-sig") as f:
         return f.readlines()
+
 
 def compare_format_lines(source_lines, target_lines, filename, unit_id, base_line_number, validator_name):
     """

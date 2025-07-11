@@ -1,0 +1,80 @@
+[tool.ruff]
+line-length = 256
+
+[tool.ruff.lint]
+select = [
+    "E",  # pycodestyle errors
+    "F",  # pyflakes
+    "W",  # pycodestyle warnings
+    "C90",  # mccabe complexity
+    "I",  # isort
+    "N",  # pep8-naming
+    "UP",  # pyupgrade
+    "YTT",  # flake8-2020
+    "S",  # flake8-bandit
+    "B",  # flake8-bugbear
+    "A",  # flake8-builtins
+    "C4",  # flake8-comprehensions
+    "DTZ",  # flake8-datetimez
+    "EM",  # flake8-errmsg
+    "EXE",  # flake8-executable
+    "ISC",  # flake8-implicit-str-concat
+    "ICN",  # flake8-import-conventions
+    "INP",  # flake8-no-pep420
+    "PIE",  # flake8-pie
+    "PT",  # flake8-pytest-style
+    "Q",  # flake8-quotes
+    "RET",  # flake8-return
+    "SIM",  # flake8-simplify
+    "TCH",  # flake8-type-checking
+    "TID",  # flake8-tidy-imports
+    "T20"   # flake8-todo
+]
+ignore = [
+    "C901",    # too complex
+    "Q003",    # quote style
+    "SIM114",  # combine if branches
+    "DTZ007",  # naive datetime
+    "SIM102",  # nested if
+    "SIM108",  # ternary operator
+    "EM101",   # exception f-string
+    "EM102",   # exception f-string
+    "E402",    # module level import not at top of file
+    "PT013",   # incorrect import of `pytest`; use `import pytest` instead
+    "S301",    # pickle and modules that wrap it can be unsafe when used to deserialize untrusted data
+    "RET504"   # Unnecessary assignment to `result` before `return` statement
+]
+
+[tool.ruff.lint.flake8-tidy-imports.banned-api]
+"dateutil.tz".msg = "Use `zoneinfo` instead."
+"mock".msg = "Use `pytest-mock` instead."
+"pytz".msg = "Use `zoneinfo` instead."
+"unittest".msg = "Use `pytest` instead."
+"unittest.mock".msg = "Use `pytest-mock` instead."
+"numba.core.types.none".msg = "Use `None` directly instead of `numba.core.types.none`."
+
+[tool.pylint]
+max-line-length = 256
+enable = ["all"]
+load-plugins = []
+disable = [
+    "line-too-long",
+    "missing-module-docstring",
+    "missing-class-docstring",
+    "missing-function-docstring",
+    "unnecessary-lambda",
+    "too-few-public-methods",
+    "too-many-lines",
+    "too-many-public-methods",
+    "too-many-instance-attributes",
+    "too-many-statements",
+    "locally-disabled",
+    "suppressed-message"
+]
+extension-pkg-allow-list = ["lxml.etree"]
+
+[tool.mypy]
+mypy_path = "../utils/src:../utils/src/stubs"
+
+[tool.isort]
+known_first_party = ["checks"]
