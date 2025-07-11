@@ -1,4 +1,3 @@
-import re
 from lxml import etree
 from utils import ValidationIssue
 from utils import xliff_check
